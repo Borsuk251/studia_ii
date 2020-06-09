@@ -1,2 +1,2 @@
 studia_ii
-materiały ze realizowane przeze mnie podczas studiów
+materiały realizowane przeze mnie podczas studiów
