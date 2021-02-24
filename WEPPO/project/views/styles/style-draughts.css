@@ -1,0 +1,60 @@
+
+#draughts-board{
+    display: none;
+}
+
+
+.board-container {
+    min-height: 800px !important;
+    min-width: 800px !important;
+    max-height: 800px !important;
+    max-width: 800px !important;
+    border-spacing: 4px 2px;
+}
+
+.draughts-row{
+    height: 12.5%;
+}
+
+
+.draughts-box-white{
+    border: solid rgb(0, 0, 0) 1px;
+    background-color: rgb(230, 230, 230);
+    padding: 0;
+    width: 100px !important;
+    height: 100px !important;
+    min-width: 100px !important;
+    min-height: 100px !important;
+    text-align:center;
+    border-radius: 0px
+}
+
+.draughts-box-black{
+    border: solid rgb(0, 0, 0) 1px;
+    background-color: rgb(160, 160, 160);
+    padding: 0;
+    text-align:center;
+    border-radius: 0px;
+    width: 100px !important;
+    height: 100px !important;
+}
+
+
+
+.piece {
+    border: solid rgb(160, 160, 160) 1px;
+    background-color: rgb(160, 160, 160);
+    margin: 4px;
+    width: 25%;
+    width: 90px !important;
+    height: 90px !important;
+    border-radius: 50%;
+    display: block;
+   
+}
+
+.has-hover:hover{
+    background: #c7c7c7;
+}
+
+

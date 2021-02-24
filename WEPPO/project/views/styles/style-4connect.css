@@ -1,0 +1,22 @@
+#game-board {
+    display: none;
+}
+
+.board-container {
+    height: 720px !important;
+    width: 840px !important;
+}
+
+
+.connect-row{
+	background-color: blue;
+	height: 16%;
+}
+
+.connect-box {
+	background-color: white;
+	border-radius: 50%;
+	width: 14%;
+	margin: 10px;
+}
+
