@@ -1,0 +1,205 @@
+{
+    "allEffects": {
+        "11": "Spo\u0142eczno-ekonomiczne aspekty informatyki (I)",
+        "10": "Rachunek prawdopodobie\u0144stwa (I)",
+        "9": "In\u017cynieria oprogramowania (L)",
+        "8": "Podstawy in\u017cynierii oprogramowania",
+        "7": "Bazy danych",
+        "6": "Sieci komputerowe",
+        "5": "Systemy operacyjne",
+        "4": "Rachunek prawdopodobie\u0144stwa (L)",
+        "3": "Architektury system\u00f3w komputerowych",
+        "2": "Programowanie i projektowanie obiektowe",
+        "1": "Podstawy informatyki i programowania"
+    },
+    "allTags": {
+        "1": "systemy sieciowe i komputerowe",
+        "4": "algorytmika i z\u0142o\u017cono\u015b\u0107 obliczeniowa",
+        "7": "przetwarzanie danych",
+        "6": "j\u0119zyki programowania i logika",
+        "8": "Data Science",
+        "9": "Praca zespo\u0142owa",
+        "5": "metody numeryczne i grafika komputerowa",
+        "10": "Bazy danych",
+        "11": "Ekonomia",
+        "12": "In\u017cynieria oprogramowania",
+        "13": "Projektowanie i programowanie obiektowe",
+        "14": "Architektury system\u00f3w komputerowych",
+        "15": "Systemy operacyjne",
+        "16": "Sieci komputerowe",
+        "17": "Ochrona w\u0142asno\u015bci intelektualnej"
+    },
+    "allOwners": {
+        "604": [
+            "Vincent",
+            "Michielini"
+        ],
+        "50": [
+            "Piotr",
+            "Wnuk-Lipi\u0144ski"
+        ],
+        "16": [
+            "Tomasz",
+            "Jurdzi\u0144ski"
+        ],
+        "15": [
+            "Artur",
+            "Je\u017c"
+        ],
+        "30": [
+            "Krzysztof",
+            "Lory\u015b"
+        ],
+        "540": [
+            "Bartosz",
+            "Bednarczyk"
+        ],
+        "5": [
+            "Piotr",
+            "Witkowski"
+        ],
+        "48": [
+            "Piotr",
+            "Wieczorek"
+        ],
+        "55": [
+            "Jan",
+            "Otop"
+        ],
+        "102": [
+            "Jaros\u0142aw",
+            "Byrka"
+        ],
+        "73": [
+            "Ma\u0142gorzata",
+            "Biernacka"
+        ],
+        "31": [
+            "Jerzy",
+            "Marcinkowski"
+        ],
+        "611": [
+            "Daniel",
+            "G\u00f3rski"
+        ],
+        "44": [
+            "Grzegorz",
+            "Stachowiak"
+        ],
+        "52": [
+            "Pawe\u0142",
+            "Wo\u017any"
+        ],
+        "49": [
+            "Tomasz",
+            "Wierzbicki"
+        ],
+        "43": [
+            "Pawe\u0142",
+            "Rzechonek"
+        ],
+        "40": [
+            "\u0141ukasz",
+            "Piwowar"
+        ],
+        "7": [
+            "Wiktor",
+            "Zychla"
+        ],
+        "53": [
+            "Pawe\u0142",
+            "Rajba"
+        ],
+        "92": [
+            "Marek",
+            "Materzok"
+        ],
+        "42": [
+            "Pawe\u0142",
+            "Rychlikowski"
+        ],
+        "70": [
+            "Dariusz",
+            "Biernacki"
+        ],
+        "35": [
+            "Rafa\u0142",
+            "Nowak"
+        ],
+        "37": [
+            "Katarzyna",
+            "Paluch"
+        ],
+        "558": [
+            "Marek",
+            "Adamczyk"
+        ],
+        "71": [
+            "Pawe\u0142",
+            "Gawrychowski"
+        ],
+        "34": [
+            "Marcin",
+            "M\u0142otkowski"
+        ],
+        "13": [
+            "Leszek",
+            "Grocholski"
+        ],
+        "109": [
+            "Jakub",
+            "Kowalski"
+        ],
+        "481": [
+            "Pawe\u0142",
+            "Lasko\u015b-Grabowski"
+        ],
+        "8": [
+            "Andrzej",
+            "\u0141ukaszewski"
+        ],
+        "19": [
+            "Witold",
+            "Karczewski"
+        ],
+        "542": [
+            "Micha\u0142",
+            "Kowalczykiewicz"
+        ],
+        "11": [
+            "Marcin",
+            "Bie\u0144kowski"
+        ],
+        "3": [
+            "Zdzis\u0142aw",
+            "Sp\u0142awski"
+        ],
+        "36": [
+            "Leszek",
+            "Pacholski"
+        ],
+        "605": [
+            "Filip",
+            "Zag\u00f3rski"
+        ]
+    },
+    "allTypes": {
+        "38": "I2.T - teoria inf.",
+        "39": "I2.Z - zastosowania inf.",
+        "8": "Obowi\u0105zkowy 1",
+        "9": "Obowi\u0105zkowy 2",
+        "5": "Informatyczny 1",
+        "37": "K2 - kurs zaawansowany",
+        "42": "Humanistyczno-spo\u0142eczny",
+        "43": "Matematyczny",
+        "10": "Obowi\u0105zkowy 3",
+        "40": "Kurs in\u017cynierski",
+        "36": "K1 - kurs podstawowy",
+        "7": "Informatyczny in\u017c.",
+        "35": "Inne",
+        "15": "Nieinformatyczny",
+        "13": "Projekt",
+        "41": "Proseminarium",
+        "14": "Seminarium"
+    }
+}

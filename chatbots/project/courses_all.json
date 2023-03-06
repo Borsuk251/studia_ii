@@ -1,0 +1,2074 @@
+[
+    {
+        "id": 3429,
+        "name": "Advanced Automata Theory",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 604,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/advanced-automata-theory-202223-letni",
+        "description": "Words and trees are the most studied structures in Computer Science, as they can be given many interpretations in different very practical fields. For instance: a word can be seen as the sequence of outputs obtained from a computation, a tree can be seen as the different paths an algorithm can go, etc. In this course, we study these objects from a theoretical point of view. First, we give a panel of different machines, called automata, which allows us to consider words and trees (possibly infinite) in a computational way. Second, we introduce different logical formalisms, allowing us to express",
+        "Wyk\u0142ady": [
+            [
+                "Vincent Michielini",
+                "\u015br 14:00-16:00 (s. 4)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Vincent Michielini",
+                "\u015br 16:00-18:00 (s. 4)"
+            ]
+        ]
+    },
+    {
+        "id": 3329,
+        "name": "Advanced Data Mining",
+        "courseType": 39,
+        "recommendedForFirstYear": false,
+        "owner": 50,
+        "effects": [],
+        "tags": [
+            8
+        ],
+        "url": "/courses/advanced-data-mining-202223-letni",
+        "description": "_**UWAGA**: W przypadku takiej konieczno\u015bci, w roku akademickim 2020/21 zaj\u0119cia mog\u0105 by\u0107 prowadzone zdalnie: wyk\u0142ady b\u0119d\u0105 prowadzone online przez Google Meet lub podobne narz\u0119dzie interaktywnej komunikacji, a pracownie b\u0119d\u0105 mia\u0142y form\u0119 indywidualnych spotka\u0144 online._ Celem przedmiotu jest zapoznanie s\u0142uchaczy z zaawansowanymi algorytmami eksploracji danych, dotycz\u0105cymi g\u0142\u00f3wnie system\u00f3w rekomenduj\u0105cych, redukcji wymiarowo\u015bci, eksploracji danych temporalnych i system\u00f3w wspomagania decyzji. Zaj\u0119cia pomocnicze skupiaj\u0105 si\u0119 na rozwi\u0105zywaniu przyk\u0142adowych problem\u00f3w \u015bwiata rzeczywistego za pomoc\u0105 zaawansowanych algorytm\u00f3w eksploracji danych. Og\u00f3lny program zaj\u0119\u0107: 1. Zaawansowane zagadnienia eksploracji danych. 2. Dane sekwencyjne i temporalne. Wielowymiarowe szeregi czasowe. Prognozowanie metodami stochastycznymi i uczenia maszynowego. Grupowanie i klasyfikacja szereg\u00f3w czasowych,",
+        "Wyk\u0142ady": [
+            [
+                "Piotr Wnuk-Lipi\u0144ski",
+                "pt 10:00-12:00 (s. 119)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Piotr Wnuk-Lipi\u0144ski",
+                "pt 14:00-16:00 (s. 137)"
+            ],
+            [
+                "Miko\u0142aj S\u0142upi\u0144ski",
+                "pt 12:00-14:00 (s. 137)"
+            ]
+        ]
+    },
+    {
+        "id": 3300,
+        "name": "Advanced Distributed Algorithms",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 16,
+        "effects": [],
+        "tags": [
+            1,
+            4
+        ],
+        "url": "/courses/advanced-distributed-algorithms-202223-letni",
+        "description": "Obliczenia rozproszone stanowi\u0105 obecnie naturalny spos\u00f3b przetwarzania informacji \u2013 od sieci globalnych jak Internet do system\u00f3w wieloprocesorowych czy wielordzeniowych. \u015arodowisko rozproszone daje mo\u017cliwo\u015b\u0107 przyspieszenia oblicze\u0144 dzi\u0119ki podziale zada\u0144 na wiele komputer\u00f3w. Jednocze\u015bnie dane, na kt\u00f3rych prowadzone s\u0105 obliczenia s\u0105 cz\u0119sto rozproszone w sieci (niedost\u0119pne w ca\u0142o\u015bci poszczeg\u00f3lnym komputerom), co stanowi istotne utrudnienie i wymaga kosztownej komunikacji. Dlatego opr\u00f3cz czasu oblicze\u0144 i zu\u017cywanej lokalnie pami\u0119ci, w konstrukcji algorytm\u00f3w rozproszonych kluczowe s\u0105 te\u017c inne miary jako\u015bci, m. in.: * liczba rund komunikacji koniecznych do zako\u0144czenia oblicze\u0144, * rozmiar przesy\u0142anych pojedynczych wiadomo\u015bci jak i sumaryczny ruch w sieci konieczny do rozwi\u0105zania problemu, *",
+        "Wyk\u0142ady": [
+            [
+                "Tomasz Jurdzi\u0144ski",
+                "cz 10:00-12:00 (s. 105)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Tomasz Jurdzi\u0144ski",
+                "cz 14:00-16:00 (s. 105)"
+            ]
+        ]
+    },
+    {
+        "id": 3286,
+        "name": "Algebra",
+        "courseType": 8,
+        "recommendedForFirstYear": true,
+        "owner": 15,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/algebra-202223-letni",
+        "description": "**Program:** 1. Przestrzenie liniowe. Zbiory liniowo niezale\u017cne. Bazy. 2. Macierze i przekszta\u0142cenia liniowe. Rz\u0105d macierzy. Algorytm eliminacji Gaussa. 3. Wyznaczniki. W\u0142asno\u015bci wyznacznik\u00f3w. Rozwini\u0119cie Laplace\u2019a. 4. R\u00f3wnania liniowe. Zbi\u00f3r rozwi\u0105za\u0144 uk\u0142adu r\u00f3wna\u0144 liniowych. Wzory Cramera. 5. Warto\u015bci i wektory w\u0142asne. Podprzestrzenie niezmiennicze. Wielomian charakterystyczny. 6. Iloczyn skalarny. Rzut ortogonalny. Izometrie i przekszta\u0142cenia ortogonalne. 7. Elementy geometrii. 8. Grupy \u2014 podstawowe poj\u0119cia: rz\u0105d grupy, rz\u0105d elementu grupy, podgrupa. 9. Grupy permutacji. Rozk\u0142ad permutacji na cykle. Znak permutacji. 10. Dzia\u0142anie grupy na zbiorze. Orbity i stabilizatory. Lemat Burnside\u2019a. Warstwy. Twierdzenie Lagrange\u2019a. 11. Arytmetyka modularna. Relacja podzielno\u015bci. Pier\u015bcienie i pier\u015bcienie Zn. 12. Algorytm Euklidesa.",
+        "Wyk\u0142ady": [
+            [
+                "Artur Je\u017c",
+                "pn 12:00-15:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Pawe\u0142 Lasko\u015b-Grabowski",
+                "\u015br 14:00-16:00 (s. 103)"
+            ],
+            [
+                "Artur Je\u017c",
+                "\u015br 14:00-16:00 (s. 139)"
+            ],
+            [
+                "Emanuel Kiero\u0144ski",
+                "\u015br 08:00-10:00 (s. 4)"
+            ],
+            [
+                "Antoni Ko\u015bcielski",
+                "\u015br 14:00-16:00 (s. 104)"
+            ],
+            [
+                "Antoni Ko\u015bcielski",
+                "\u015br 16:00-18:00 (s. 104)"
+            ]
+        ],
+        "Repetytoria": [
+            [
+                "Emanuel Kiero\u0144ski",
+                "cz 08:00-10:00 (s. 119)"
+            ]
+        ]
+    },
+    {
+        "id": 3285,
+        "name": "Algorytmy i struktury danych (L)",
+        "courseType": 9,
+        "recommendedForFirstYear": false,
+        "owner": 30,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/algorytmy-i-struktury-danych-l-202223-letni",
+        "description": "Zaj\u0119cia do przedmiotu prowadzone s\u0105 razem z zaj\u0119ciami na poziomie M. Ch\u0119tni na Algorytmy i struktury danych (M) powinni zapisywa\u0107 si\u0119 na zaj\u0119cia do Algorytm\u00f3w i struktur danych (L). W praktyce przedmioty r\u00f3\u017cni\u0105 si\u0119 wymiarem pracowni (liczb\u0105 wymaganych zada\u0144), wymaganiami na zaliczenie oraz wymaganiami na egzaminie. W bie\u017c\u0105cym roku \u0107wiczenia b\u0119d\u0105 prowadzone w wymiarze 3h tygodniowo, z czego trzecia godzina jest nieobowi\u0105zkowa na poziomie L.",
+        "Wyk\u0142ady": [
+            [
+                "Krzysztof Lory\u015b",
+                "pn 16:00-18:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Pawe\u0142 Rzechonek",
+                "wt 15:00-18:00 (s. 5)"
+            ],
+            [
+                "\u0141ukasz Je\u017c",
+                "wt 15:00-18:00 (s. 104)"
+            ],
+            [
+                "Karol Pokorski",
+                "wt 15:00-18:00 (s. 105)"
+            ],
+            [
+                "Krzysztof Lory\u015b",
+                "wt 15:00-18:00 (s. 4)"
+            ],
+            [
+                "Wojciech Janczewski",
+                "wt 15:00-18:00 (s. 103)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Marcin Bie\u0144kowski",
+                "pt 13:00-14:00 (s. wirtualna1)"
+            ],
+            [
+                "Marcin Bie\u0144kowski",
+                "pt 12:00-13:00 (s. wirtualna1)"
+            ]
+        ],
+        "Repetytoria": [
+            [
+                "\u0141ukasz Je\u017c",
+                "pn 18:00-20:00 (s. 25)"
+            ]
+        ]
+    },
+    {
+        "id": 3367,
+        "name": "An Introduction to Finite and Classical Model Theory",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 540,
+        "effects": [],
+        "tags": [
+            6
+        ],
+        "url": "/courses/an-introduction-to-finite-and-classical-model-theory-202223-letni",
+        "description": "**Przedmiot zostanie uruchomiony przy przynajmniej 10ciu ch\u0119tnych. Termin \u0107wicze\u0144 zostanie ustalony podczas pierwszego wyk\u0142adu.** **Przedmiot b\u0119dzie prowadzony wsp\u00f3lnie przez B. Bednarczyka oraz V. Micheliniego.** (Finite) model theory is a vital area of mathematical logic, which, from our perspective, serves as the foundation of relational database theory. The classes will be about some selected topics from classical and finite model theory, which I found interesting or/and important. The lecture will be quite theoretical and the difficulty level of the presented content will vary. The classes are dedicated to students interested in theoretical computer science and math. Nevertheless, they should be accessible",
+        "Wyk\u0142ady": [
+            [
+                "Bartosz Bednarczyk",
+                "pn 10:00-12:00 (s. 119)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Vincent Michielini",
+                "pn 18:00-20:00 (s. 105)"
+            ]
+        ]
+    },
+    {
+        "id": 3344,
+        "name": "Architektury system\u00f3w komputerowych",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 5,
+        "effects": [
+            3
+        ],
+        "tags": [],
+        "url": "/courses/architektury-systemow-komputerowych-202223-letni",
+        "description": "Celem przedmiotu jest wprowadzenie s\u0142uchaczy do budowy i zasad dzia\u0142ania komputer\u00f3w z punktu widzenia programisty. Studenci nab\u0119d\u0105 wiedzy z zakresu programowania niskopoziomowego. Po zako\u0144czeniu przedmiotu b\u0119d\u0105 rozumie\u0107: * reprezentacj\u0119 program\u00f3w i danych na dysku i w pami\u0119ci komputera, * wp\u0142yw architektury komputera na wydajno\u015b\u0107 aplikacji, * mechanizmy sprz\u0119towe u\u017cywane do implementacji system\u00f3w operacyjnych, * jak unika\u0107 pisania program\u00f3w podatnych na ataki. ##### Program 1. Reprezentacja danych * reprezentacja danych w pami\u0119ci komputera * arytmetyka na liczbach binarnych w systemie uzupe\u0142nie\u0144 do dw\u00f3ch * arytmetyka na liczbach zmiennopozycyjnych standardu IEEE754 * problemy wynikaj\u0105ce z ogranicze\u0144 reprezentacji maszynowych typ\u00f3w numerycznych 2. Programowanie",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pt 18:00-20:00 (s. wirtualna4)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Artur Kraska",
+                "\u015br 08:00-10:00 (s. 5)"
+            ],
+            [
+                "Piotr Polesiuk",
+                "wt 10:00-12:00 (s. 141)"
+            ],
+            [
+                "Piotr Witkowski",
+                "\u015br 17:00-19:00 (s. wirtualna4)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Piotr Witkowski",
+                "\u015br 16:00-17:00 (s. wirtualna4)"
+            ],
+            [
+                "Piotr Witkowski",
+                "cz 17:00-18:00 (s. wirtualna1)"
+            ],
+            [
+                "Piotr Witkowski",
+                "cz 18:00-19:00 (s. wirtualna4)"
+            ]
+        ],
+        "Repetytoria": [
+            [
+                "Artur Kraska",
+                "\u015br 13:00-14:00 (s. 119)"
+            ]
+        ]
+    },
+    {
+        "id": 3337,
+        "name": "Bazy danych",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 48,
+        "effects": [
+            7
+        ],
+        "tags": [],
+        "url": "/courses/bazy-danych-202223-letni",
+        "description": "Celem wyk\u0142adu jest om\u00f3wienie zasad konstrukcji relacyjnych baz danych oraz opanowanie przez s\u0142uchaczy umiej\u0119tno\u015bci profesjonalnej obs\u0142ugi systemu baz danych od strony u\u017cytkownika, czyli: * umiej\u0119tno\u015bci projektowania i tworzenia relacyjnych baz danych dla rzeczywistych zagadnie\u0144; * sprawnego wyszukiwania i odzyskiwania informacji z baz danych przy pomocy j\u0119zyk\u00f3w SQL. * pisania aplikacji z dost\u0119pem do baz danych; * efektywnego wykorzystania dodatkowych mo\u017cliwo\u015bci systemu (perspektyw, transakcji, wi\u0119z\u00f3w, itp.). Ponadto wyk\u0142ad pozwala s\u0142uchaczom pozna\u0107 elementy system\u00f3w baz danych spoza warstwy u\u017cytkownika (system nadzoru transakcji, zapewnienia bezpiecze\u0144stwa i optymalizacji) oraz zapozna\u0107 si\u0119 z innymi koncepcjami baz danych wykraczaj\u0105cymi poza standard relacyjny (np. grafowe bazy danych,",
+        "Wyk\u0142ady": [
+            [
+                "Piotr Wieczorek",
+                "\u015br 13:00-15:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Ma\u0142gorzata Biernacka",
+                "wt 10:00-12:00 (s. 7, 105)"
+            ],
+            [
+                "Pawe\u0142 Lasko\u015b-Grabowski",
+                "wt 10:00-12:00 (s. 4, 137)"
+            ],
+            [
+                "Piotr Wieczorek",
+                "wt 10:00-12:00 (s. 103, 110)"
+            ],
+            [
+                "Jakub Michaliszyn",
+                "wt 10:00-12:00 (s. 104, 108)"
+            ]
+        ]
+    },
+    {
+        "id": 3449,
+        "name": "Course on Biomedical Image Analysis for Computer Scientists",
+        "courseType": 37,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/course-on-biomedical-image-analysis-for-computer-scientists-202223-letni",
+        "description": "**Przedmiot prowadzony przez dr. Artura Yakimovicha z The Center for Advanced Systems Understanding (CASUS). Prezedmiot prowadzony jest nieregularnie: Wst\u0119pny terminarz 20,21 kwietnia, 25,26 maja oraz 15 czerwca po 3h** Imaging in Biology and Medicine provides a window to the hidden worlds. Visualising objects ranging from molecules and cells to body parts and organisms allows us to intuitively understand these worlds. Yet, beyond merely being able to look, with the help of modern- day Computer Vision algorithms, we can measure and understand what happens in those invisible worlds. Empowered by Computer Science, modern biomedical imaging has become indispensable in research and",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pt 10:00-13:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3330,
+        "name": "Etyka dla my\u015bl\u0105cych",
+        "courseType": 42,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/etyka-dla-myslacych-202223-letni",
+        "description": "Na co dzie\u0144 etyka nie jest ci potrzebna. Wiesz co robi\u0107. Ale czasem sprawy si\u0119 komplikuj\u0105\u2026 - w twojej pracy le\u017cy laptop. Nikt go nie u\u017cywa, nikt si\u0119 nim nawet nie interesuje. Gdyby\u015b go wzi\u0105\u0142, nikt by si\u0119 nawet nie zorientowa\u0142. Przyda\u0142by ci si\u0119 taki laptop\u2026 - spotykasz si\u0119 z dziewczyn\u0105. Wiesz, \u017ce nigdy nie zwi\u0105\u017cesz si\u0119 z ni\u0105 na powa\u017cnie, cho\u0107 ona bardzo na to liczy. Powiedzie\u0107 jej o tym? Po co \u2013 jej blisko\u015b\u0107 jest ci tak przyjemna. A mo\u017ce, co gorsze, przydarzy\u0142a wam si\u0119 \u201ewpadka\u201d? Na szcz\u0119\u015bcie jest pewne proste rozwi\u0105zanie. Ale czy faktycznie jest ono tak",
+        "Wyk\u0142ady": [
+            [
+                "Marcin Drofiszyn",
+                "cz 16:00-18:00 (s. 119)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Marcin Drofiszyn",
+                "cz 18:00-20:00 (s. 141)"
+            ]
+        ]
+    },
+    {
+        "id": 3304,
+        "name": "Etyka dla my\u015bl\u0105cych (w)",
+        "courseType": 42,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/etyka-dla-myslacych-w-202223-letni",
+        "description": "Na co dzie\u0144 etyka nie jest ci potrzebna. Wiesz co robi\u0107. Ale czasem sprawy si\u0119 komplikuj\u0105\u2026 - w twojej pracy le\u017cy laptop. Nikt go nie u\u017cywa, nikt si\u0119 nim nawet nie interesuje. Gdyby\u015b go wzi\u0105\u0142, nikt by si\u0119 nawet nie zorientowa\u0142. Przyda\u0142by ci si\u0119 taki laptop\u2026 - spotykasz si\u0119 z dziewczyn\u0105. Wiesz, \u017ce nigdy nie zwi\u0105\u017cesz si\u0119 z ni\u0105 na powa\u017cnie, cho\u0107 ona bardzo na to liczy. Powiedzie\u0107 jej o tym? Po co \u2013 jej blisko\u015b\u0107 jest ci tak przyjemna. A mo\u017ce, co gorsze, przydarzy\u0142a wam si\u0119 \u201ewpadka\u201d? Na szcz\u0119\u015bcie jest pewne proste rozwi\u0105zanie. Ale czy faktycznie jest ono tak",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 16:00-18:00 (s. )"
+            ]
+        ]
+    },
+    {
+        "id": 3316,
+        "name": "Geometric Optimization",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 102,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/geometric-optimization-202223-letni",
+        "description": "The course will be given by Sandip Banerjee. It will cover the following topics: 1) Randomized Incremental Construction (RIC) (2-3 lectures) * Random sampling in computational geometry * Convex hull, Dynamic maintenance using RIC * RIC of Delaunay and Voronoi diagrams. 2) Epsilon-approximation and Epsilon-nets (2 lectures) * Basic definitions, applications, range space and VC-dimension * Discrepancy 3) Geometric covering problems (2-3 lectures) * Geometric Covering and packing problems * Geometric hitting set problem 4) Coresets and Clustering (3-4 lectures) * Centroid based like k-center, k-median, k-means and Density based clustering like min-sum clustering 5) Metric embedding (3-4 lectures) *",
+        "Wyk\u0142ady": [
+            [
+                "Sandip Banerjee",
+                "pn 14:00-16:00 (s. 104)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Fateme Abbasi",
+                "pn 16:00-18:00 (s. 104)"
+            ]
+        ]
+    },
+    {
+        "id": 3370,
+        "name": "[IM] Algebra 2R",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 5,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-algebra-2r-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pt 08:00-10:00 (s. wirtualna1)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nadav Meir",
+                "wt 12:00-14:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3343,
+        "name": "[IM] Algebra I",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-algebra-i-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "wt 09:00-12:00 (s. wirtualna1)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pn 12:00-15:00 (s. wirtualna1)"
+            ]
+        ]
+    },
+    {
+        "id": 3291,
+        "name": "[IM] Algebra liniowa 2",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-algebra-liniowa-2-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "wt 09:00-12:00 (s. wirtualna4)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pn 12:00-14:00 (s. )"
+            ]
+        ],
+        "Repetytoria": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 08:00-10:00 (s. )"
+            ]
+        ]
+    },
+    {
+        "id": 3325,
+        "name": "[IM] Analiza matematyczna II",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-analiza-matematyczna-ii-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "\u015br 08:00-10:00 (s. wirtualna4)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Witold \u015awi\u0105tkowski",
+                "pt 08:00-10:00 (s. wirtualna4)"
+            ],
+            [
+                "Witold \u015awi\u0105tkowski",
+                "cz 16:00-18:00 (s. wirtualna3)"
+            ]
+        ]
+    },
+    {
+        "id": 3297,
+        "name": "[IM] Funkcje analityczne R",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-funkcje-analityczne-r-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 14:00-16:00 (s. wirtualna1)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 16:00-18:00 (s. wirtualna5)"
+            ]
+        ]
+    },
+    {
+        "id": 3292,
+        "name": "[IM] Rachunek prawdopodobie\u0144stwa 1R",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-rachunek-prawdopodobienstwa-1r-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Dariusz Buraczewski",
+                "\u015br 10:00-13:00 (s. )"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 08:00-10:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3318,
+        "name": "[IM] R\u00f3wnania r\u00f3\u017cniczkowe 1",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-rownania-rozniczkowe-1-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pn 12:00-15:00 (s. wirtualna2)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 12:00-14:00 (s. wirtualna1)"
+            ]
+        ]
+    },
+    {
+        "id": 3335,
+        "name": "[IM] R\u00f3wnania r\u00f3\u017cniczkowe 1R",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-rownania-rozniczkowe-1r-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pn 12:00-15:00 (s. wirtualna3)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 12:00-14:00 (s. )"
+            ]
+        ]
+    },
+    {
+        "id": 3319,
+        "name": "[IM] Statistical learning",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-statistical-learning-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "pn 14:00-16:00 (s. )"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Grzegorz Wy\u0142upek",
+                "pn 12:00-14:00 (s. wirtualna5)"
+            ]
+        ]
+    },
+    {
+        "id": 3299,
+        "name": "[IM] Topologia",
+        "courseType": 43,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/im-topologia-202223-letni",
+        "description": "Grupy tego przedmiotu matematycznego s\u0105 umieszczone w systemie zapis\u00f3w by pozwoli\u0107 studentom na \u0142atwiejsze u\u0142o\u017cenie planu zaj\u0119\u0107, z uwzgl\u0119dnieniem przedmiot\u00f3w matematycznych. Zapis do tych przedmiot\u00f3w odbywa si\u0119 poza Systemem Zapis\u00f3w. By unikn\u0105\u0107 nieporozumie\u0144, grupy tego przedmiotu maj\u0105 limit miejsc wynosz\u0105cy zero, lecz je\u015bli jednak zauwa\u017cysz, \u017ce kt\u00f3ra\u015b grupa ma niezerowy limit, prosz\u0119 zg\u0142o\u015b problem, pomo\u017cesz w ten spos\u00f3b unikn\u0105\u0107 kolegom i kole\u017cankom pomy\u0142ki.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "\u015br 14:00-16:00 (s. wirtualna4)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Tomasz \u017buchowski",
+                "cz 18:00-20:00 (s. wirtualna1)"
+            ]
+        ]
+    },
+    {
+        "id": 3336,
+        "name": "J\u0119zyki formalne i z\u0142o\u017cono\u015b\u0107 obliczeniowa",
+        "courseType": 10,
+        "recommendedForFirstYear": false,
+        "owner": 31,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/jezyki-formalne-i-zozonosc-obliczeniowa-202223-letni",
+        "description": "Program przedmiotu obejmuje zagadnienia zwi\u0105zane z teori\u0105 j\u0119zykow formalnych (wyk\u0142ady A1 - A8) w zakresie istotnym z punktu widzenia wykszta\u0142cenia informatycznego, a tak\u017ce dostatecznym dla stworzenia zasobow naturalnych przyk\u0142adow dla cz\u0119\u015bci B i C. Nast\u0119pnie przechodzi si\u0119 do zagadnie\u0144 zwi\u0105zanych z poj\u0119ciami rozstrzygalno\u015bci i nierozstrzygalno\u015bci (wyk\u0142ady R1 -- R8). Ostatnia cz\u0119\u015b\u0107 kursu po\u015bwi\u0119cona jest wybranym, elementarnym zagadnieniom z\u0142o\u017cono\u015bci obliczeniowej.",
+        "Wyk\u0142ady": [
+            [
+                "Jerzy Marcinkowski",
+                "\u015br 15:00-18:00 (s. 119)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Jerzy Marcinkowski",
+                "pn 12:00-15:00 (s. 119)"
+            ],
+            [
+                "Jan Otop",
+                "pn 12:00-15:00 (s. 105)"
+            ]
+        ],
+        "Repetytoria": [
+            [
+                "Jan Otop",
+                "wt 14:00-16:00 (s. wirtualna1)"
+            ]
+        ]
+    },
+    {
+        "id": 3454,
+        "name": "Korporacyjna Java",
+        "courseType": 37,
+        "recommendedForFirstYear": false,
+        "owner": 611,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/korporacyjna-java-202223-letni",
+        "description": "**Pierwsze zaj\u0119cia odb\u0119d\u0105 si\u0119 1.03.2023.** Tematem przedmiotu jest korporacyjny styl wytwarzania oprogramowania z naciskiem na przedstawienie metodologii zwinnego, iteracyjnego wytwarzania oprogramowania w zespo\u0142ach i poznanie narz\u0119dzi wspieraj\u0105cych ten proces. W trakcie pracowni pocz\u0105tkowo ka\u017cdy b\u0119dzie pracowa\u0142 indywidualnie aby w praktyce nauczy\u0107 si\u0119 operacji na repozytorium, przez wi\u0119kszo\u015b\u0107 semestru b\u0119dzie realizowany projekt w 3-5 osobowych grupach. B\u0119dzie to jeden projekt pisany iteracyjnie, z wci\u0105\u017c nowymi wymaganiami, podstaw\u0105 oceny b\u0119dzie suma ocen cz\u0105stkowych i ocena ko\u0144cowa projektu. J\u0119zykiem programowania b\u0119dzie Java: wymagana jest podstawowa znajomo\u015b\u0107 sk\u0142adni j\u0119zyka i podstaw programowania obiektowego. Przedmiot b\u0119dzie prowadzony zdalnie przez Daniela G\u00f3rskiego: programist\u0119 z ponad 15-letnim",
+        "Wyk\u0142ady": [
+            [
+                "Daniel G\u00f3rski",
+                "\u015br 08:00-10:00 (s. )"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Daniel G\u00f3rski",
+                "\u015br 10:00-12:00 (s. wirtualna1)"
+            ]
+        ]
+    },
+    {
+        "id": 3288,
+        "name": "Kryptografia",
+        "courseType": 39,
+        "recommendedForFirstYear": false,
+        "owner": 44,
+        "effects": [],
+        "tags": [
+            4,
+            7
+        ],
+        "url": "/courses/kryptografia-202223-letni",
+        "description": "**Cel zaj\u0119\u0107:** Celem wyk\u0142adu jest zapoznanie uczestnikow z nowoczesnymi metodami s\u0142u\u017c\u0105cymi do ochrony prywatnosci danych elektronicznych, autentyfikacji u\u017cytkownikow systemow komputerowych, zabezpieczaniu przed nieuprawnionymi modyfikacjami danych i innymi tego typu zastosowaniami opartymi na technikach kryptograficznych. Znaczenie tego typu metod ujawnia si\u0119 szczegolnie ostro w epoce powstawania globalnych sieci komputerowych, gdzie systemy operacyjne nie gwarantuj\u0105 ju\u017c bezpiecze\u0144stwa. G\u0142owny nacisk po\u0142o\u017cony zostanie na prezentacj\u0119 metod albo obecnie stosowanych, b\u0105d\u017a te\u017c wchodz\u0105cych do praktyki. Niemniej jednak uczestnicy wyk\u0142adu b\u0119d\u0105 mieli okazj\u0119 zapoznania si\u0119 z materia\u0142em teoretycznym b\u0119d\u0105cym podstawa dla zrozumienia tych metod. Uczestnicy zaj\u0119c przygotowani zostan\u0105 do pracy w zakresie projektowania i u\u017cytkowania systemow",
+        "Wyk\u0142ady": [
+            [
+                "Grzegorz Stachowiak",
+                "wt 12:00-14:00 (s. 105)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Grzegorz Stachowiak",
+                "cz 12:00-14:00 (s. 104)"
+            ],
+            [
+                "Grzegorz Stachowiak",
+                "cz 14:00-16:00 (s. 104)"
+            ]
+        ]
+    },
+    {
+        "id": 3340,
+        "name": "Krzywe i powierzchnie w grafice komputerowej",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 52,
+        "effects": [],
+        "tags": [
+            5
+        ],
+        "url": "/courses/krzywe-i-powierzchnie-w-grafice-komputerowej-202223-letni",
+        "description": "Krzywe i powierzchnie to podstawowe obiekty grafiki komputerowej. To w\u0142a\u015bnie przy ich pomocy mo\u017cna modelowa\u0107 skomplikowane kszta\u0142ty i sceny, kt\u00f3rym nadaje si\u0119 p\u00f3\u017aniej cechy realistyczne i wykorzystuje na przyk\u0142ad w tak modnej ostatnio animacji komputerowej. G\u0142\u00f3wnym celem wyk\u0142adu jest przedstawienie podstawowych wiadomo\u015bci na temat narz\u0119dzi pozwalaj\u0105cych efektywnie reprezentowa\u0107 i modelowa\u0107 krzywe oraz powierzchnie r\u00f3\u017cnego typu i wyg\u0142adza\u0107 przy ich pomocy dane. Szczeg\u00f3lny nacisk po\u0142o\u017cony b\u0119dzie na om\u00f3wienie odpowiednich technik i algorytm\u00f3w z tym zwi\u0105zanych, kt\u00f3re pozwol\u0105 uczestnikom zaj\u0119\u0107 przygotowa\u0107 w\u0142asny edytor krzywych lub powierzchni. **Wymagania** * analiza numeryczna (L lub M), * umiej\u0119tno\u015b\u0107 programowania. **Program** 1\\. Podstawowe poj\u0119cia (dzia\u0142ania na",
+        "Wyk\u0142ady": [
+            [
+                "Pawe\u0142 Wo\u017any",
+                "\u015br 10:00-12:00 (s. 105)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Pawe\u0142 Wo\u017any",
+                "wt 14:00-16:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3341,
+        "name": "Kurs administrowania systemem Linux",
+        "courseType": 40,
+        "recommendedForFirstYear": false,
+        "owner": 49,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/kurs-administrowania-systemem-linux-202223-letni",
+        "description": "Celem kursu jest rozwini\u0119cie u uczestnik\u00f3w praktycznych umiej\u0119tno\u015bci zarz\u0105dzania systemem Linux na komputerze osobistym lub serwerze. Zostan\u0105 przedstawione podstawowe informacje na temat budowy i sposobu dzia\u0142ania system\u00f3w uniksopodobnych, a szczeg\u00f3lnie r\u00f3\u017cnych dystrybucji Linuksa. Zaj\u0119cia s\u0105 adresowane do wszystkich student\u00f3w, kt\u00f3rzy chcieliby sprawnie korzysta\u0107 na co dzie\u0144 z system\u00f3w linuksowych i kt\u00f3rzy s\u0105 zdania, \u017ce to u\u017cytkownik powinien mie\u0107 w\u0142adz\u0119 na komputerem, a nie komputer nad u\u017cytkownikiem. Mimo \u017ce osi\u0105gni\u0119cie tego celu wymaga sporego zaanga\u017cowania, wiedzy i praktycznych umiej\u0119tno\u015bci, nie zak\u0142ada si\u0119 wst\u0119pnego do\u015bwiadczenia s\u0142uchaczy w zakresie administrowania Linuksem. Wystarczy wola od\u0142\u0105czenia myszy i ch\u0119\u0107 pracy z terminalem tekstowym. ### ORIENTACYJNY",
+        "Wyk\u0142ady": [
+            [
+                "Tomasz Wierzbicki",
+                "\u015br 18:00-20:00 (s. 141)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Tomasz Wierzbicki",
+                "cz 12:00-14:00 (s. 105)"
+            ],
+            [
+                "Tomasz Wierzbicki",
+                "\u015br 16:00-18:00 (s. 141)"
+            ]
+        ]
+    },
+    {
+        "id": 3347,
+        "name": "Kurs j\u0119zyka C++",
+        "courseType": 36,
+        "recommendedForFirstYear": true,
+        "owner": 43,
+        "effects": [
+            2
+        ],
+        "tags": [],
+        "url": "/courses/kurs-jezyka-c-202223-letni",
+        "description": "**C++** to j\u0119zyk programowania o charakterze obiektowym. Jest to obecnie jeden z najbardziej znanych i popularnych j\u0119zyk\u00f3w programowania, wykorzystywany w r\u00f3\u017cnych dzia\u0142ach IT ale przede wszystkim do programowania systemowego, aplikacji narz\u0119dziowych, wykonywania oblicze\u0144 in\u017cynierskich oraz do tworzenia gier komputerowych. Charakteryzuje si\u0119 wysok\u0105 wydajno\u015bci\u0105 kodu wynikowego, przenaszalno\u015bci\u0105 tego kodu pomi\u0119dzy r\u00f3\u017cnymi platformami oraz \u0142atwo\u015bci\u0105 tworzenia i u\u017cywania z bibliotek. C++ jest na pewno podstawowym narz\u0119dziem pracy milion\u00f3w programist\u00f3w na ca\u0142ym \u015bwiecie. J\u0119zyk C++ jest potomkiem j\u0119zyka C. Te dwa j\u0119zyki s\u0105 do siebie podobne sk\u0142adniowo ale w istocie mocno si\u0119 r\u00f3\u017cni\u0105. Prace nad tym j\u0119zykiem rozpocz\u0105\u0142 du\u0144ski naukowiec Bjarne Stroustrup ju\u017c",
+        "Wyk\u0142ady": [
+            [
+                "Pawe\u0142 Rzechonek",
+                "cz 16:00-18:00 (s. 25)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "\u015br 16:00-18:00 (s. 137)"
+            ],
+            [
+                "Pawe\u0142 Rzechonek",
+                "pn 18:00-20:00 (s. 107)"
+            ],
+            [
+                "Pawe\u0142 Rzechonek",
+                "wt 18:00-20:00 (s. 137)"
+            ],
+            [
+                "\u0141ukasz Piwowar",
+                "cz 12:00-14:00 (s. 107)"
+            ],
+            [
+                "\u0141ukasz Piwowar",
+                "cz 14:00-16:00 (s. 107)"
+            ],
+            [
+                "Andrzej \u0141ukaszewski",
+                "cz 12:00-14:00 (s. 108)"
+            ]
+        ]
+    },
+    {
+        "id": 3362,
+        "name": "Kurs: Praktyczne aspekty rozwoju oprogramowania",
+        "courseType": 40,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/kurs-praktyczne-aspekty-rozwoju-oprogramowania-202223-letni",
+        "description": "Kurs koncentruje si\u0119 na praktycznych aspektach rozwoju oprogramowania na przyk\u0142adzie j\u0119zyka C++. Kurs sk\u0142ada si\u0119 z 2 wyk\u0142adow, 2 warsztatow oraz 10 zaj\u0119\u0107 praktycznych (po 3 godziny lekcyjne ka\u017cde). Zaliczenie kursu odbywa si\u0119 na podstawie obecno\u015bci oraz wyniku kolokwium. Szczegolna aktywno\u015b\u0107 na zaj\u0119ciach praktycznych jest dodatkowo premiowana. Osoby, ktore pozytywnie uko\u0144cz\u0105 kurs, otrzymuj\u0105 stosowny certyfikat. W ramach kursu studenci maj\u0105 bezpo\u015bredni kontakt ze specjalistami oraz osobami zawodowo zajmuj\u0105cymi si\u0119 komercyjnym rozwojem oprogramowania w firmie NOKIA we Wroc\u0142awiu. W celu pe\u0142nego zrozumienia prezentowanych tre\u015bci rekomendowana jest podstawowa znajomo\u015b\u0107 j\u0119zyka C++. Program zaj\u0119\u0107: 1. Jak realizowa\u0107 innowacyjne projekty na czas [Wyk\u0142ad] 2.",
+        "Wyk\u0142ady": [
+            [
+                "Piotr Kozica",
+                "wt 16:00-17:00 (s. 7, 119)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Piotr Kozica",
+                "wt 17:00-19:00 (s. 7, 119)"
+            ]
+        ]
+    },
+    {
+        "id": 3301,
+        "name": "Kurs programowania gier w silniku Unreal 5",
+        "courseType": 37,
+        "recommendedForFirstYear": false,
+        "owner": 40,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/kurs-programowania-gier-w-silniku-unreal-5-202223-letni",
+        "description": "W przeciwie\u0144stwie do kursu Unity nie b\u0119d\u0119 omawia\u0142 silnika okno po oknie i w\u0142a\u015bciwo\u015bci po w\u0142a\u015bciwo\u015bci, zamiast tego poka\u017c\u0119 jak napisa\u0107 pi\u0119\u0107 przyk\u0142adowych gier, od pocz\u0105tku do ko\u0144ca u\u017cywaj\u0105c silnika Unreal 5. Gry kt\u00f3re pojawi\u0105 si\u0119 na wyk\u0142adzie: - rozbijanie \u015bciany z beczek (fizyka, podstawy, blue printy) - platform\u00f3wka z przeszkodami (skrypty c++, animacje, postacie humanoidalne) - lochy (programowanie obiektowe, kolizje, input system) - czo\u0142gi (multi player, game framework) - TPS (third person shooter, animacje, AI, GUI) Dodatkowo om\u00f3wienie systemu technologii o\u015bwietlenia globalnego \"Lumen\" oraz systemu \"Nanite\" umo\u017cliwiaj\u0105cego budow\u0119 scen 3D o bardzo du\u017cym poziomie szczeg\u00f3\u0142owo\u015bci. Kurs nie jest od",
+        "Wyk\u0142ady": [
+            [
+                "\u0141ukasz Piwowar",
+                "\u015br 10:00-12:00 (s. 119)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "\u0141ukasz Piwowar",
+                "\u015br 14:00-16:00 (s. 7)"
+            ],
+            [
+                "\u0141ukasz Piwowar",
+                "\u015br 12:00-14:00 (s. 7)"
+            ]
+        ]
+    },
+    {
+        "id": 3308,
+        "name": "Kurs programowania pod Windows w technologii .NET",
+        "courseType": 36,
+        "recommendedForFirstYear": false,
+        "owner": 7,
+        "effects": [
+            1
+        ],
+        "tags": [],
+        "url": "/courses/kurs-programowania-pod-windows-w-technologii-net-202223-letni",
+        "description": "Celem wyk\u0142adu jest przedstawienie systemu operacyjnego Windows widzianego oczami programisty z szerokiej perspektywy technologii .NET. Pracownia daje okazj\u0119 do zmierzenia si\u0119 z szeregiem typowych zada\u0144 programistycznych w \u015brodowisku Windows. **Program:** 1. Om\u00f3wienie wewn\u0119trznych mechanizm\u00f3w Windows. 2. Zapoznanie z interfejsem programowania Win32API. 3. Om\u00f3wienie platformy .NET i j\u0119zyka C# 4. Przegl\u0105d biblioteki standardowej platformy .NET, m.in: * oprogramowanie interfejsu u\u017cytkownika (Windows.Forms, WPF), * komunikacja z systemami baz danych (ADO.NET, Linq2SQL, Entity Framework) * integracja r\u00f3\u017cnych j\u0119zyk\u00f3w platformy .NET: VB.NET, MSIL.",
+        "Wyk\u0142ady": [
+            [
+                "Wiktor Zychla",
+                "wt 12:00-14:00 (s. 140)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Wiktor Zychla",
+                "wt 08:00-10:00 (s. 7)"
+            ],
+            [
+                "Wiktor Zychla",
+                "wt 18:00-20:00 (s. 107)"
+            ]
+        ]
+    },
+    {
+        "id": 3445,
+        "name": "Kurs: programowanie sterownik\u00f3w dla systemu Linux",
+        "courseType": 37,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/kurs-programowanie-sterownikow-dla-systemu-linux-202223-letni",
+        "description": "Zaj\u0119cia b\u0119d\u0105 prowadzone przez Karola Guga\u0142\u0119 z firmy [Antmicro](https://antmicro.com/). Na warsztatach b\u0119dziemy rozwija\u0107 sterownik do sensora pod\u0142\u0105czonego przez magistral\u0119 I\u00b2C (IMU lub temperatury i wilgotno\u015bci). Ka\u017cde spotkanie zaczniemy od wprowadzenia do tematu, a dalej prze\u0142\u0105czymy si\u0119 na pisanie kodu. Po ka\u017cdych zaj\u0119ciach sterownik b\u0119dzie implementowa\u0142 coraz wi\u0119cej funkcjonalno\u015bci. System Linux b\u0119dziemy uruchamia\u0107 pod kontrol\u0105 Renode symuluj\u0105cego p\u0142ytk\u0119 rozwojow\u0105 na procesorze ARM. Ambitni studenci w ramach projektu ko\u0144cowego mog\u0105 spr\u00f3bowa\u0107 podpi\u0105\u0107 jaki\u015b sensor do prawdziwego sprz\u0119tu, np. Raspberry Pi.",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "wt 10:00-11:00 (s. 140)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "wt 11:00-12:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3320,
+        "name": "Kurs projektowania aplikacji z bazami danych",
+        "courseType": 40,
+        "recommendedForFirstYear": false,
+        "owner": 53,
+        "effects": [
+            7
+        ],
+        "tags": [],
+        "url": "/courses/kurs-projektowania-aplikacji-z-bazami-danych-202223-letni",
+        "description": "Dobrze zaprojektowana aplikacja przetwarzaj\u0105ca i prezentuj\u0105ca dane ma wiele warstw i komponent\u00f3w o okre\u015blonych odpowiedzialno\u015bciach. Celem wyk\u0142adu jest zaprezentowanie, jak dobrze taki typ aplikacji zaprojektowa\u0107 i oprogramowa\u0107. Podczas wyk\u0142ad\u00f3w oraz towarzysz\u0105cych im pracowni b\u0119dziemy poznawa\u0107 i budowa\u0107 kolejne elementy rozwi\u0105zania, aby ostatecznie otrzyma\u0107 kompletny, dzia\u0142aj\u0105cy system. **Program** Sk\u0142ada si\u0119 z dw\u00f3ch g\u0142\u00f3wnych cz\u0119\u015bci **Cz\u0119\u015b\u0107 1: DBMS** 1. Podstawy Microsoft SQL Server 2. J\u0119zyk SQL 3. Programowanie w T-SQL 4. Kursory, wyzwalacze, funkcje i procedury 5. Transakcje i blokady 6. Optymalizacja w tym normalizacja, indeksy i plany wykonania 7. Przegl\u0105d wybranych baz danych typu NoSQL **Cz\u0119\u015b\u0107 2: System informatyczny** 1. Podstawy",
+        "Wyk\u0142ady": [
+            [
+                "Pawe\u0142 Rajba",
+                "pn 18:00-20:00 (s. 119)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Pawe\u0142 Rajba",
+                "pn 16:00-18:00 (s. wirtualna4)"
+            ],
+            [
+                "Pawe\u0142 Lasko\u015b-Grabowski",
+                "cz 14:00-16:00 (s. )"
+            ],
+            [
+                "Fateme Abbasi",
+                "pt 08:00-10:00 (s. )"
+            ]
+        ]
+    },
+    {
+        "id": 3331,
+        "name": "Logika cyfrowa",
+        "courseType": 7,
+        "recommendedForFirstYear": true,
+        "owner": 92,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/logika-cyfrowa-202223-letni",
+        "description": "Wyk\u0142ad jest wprowadzeniem do projektowania uk\u0142ad\u00f3w cyfrowych. Celem wyk\u0142adu jest nauczenie zasad rz\u0105dz\u0105cych funkcjonowaniem elektroniki cyfrowej oraz typowych rozwi\u0105za\u0144 stosowanych przy projektowaniu uk\u0142ad\u00f3w. Wiedza zdobyta na wyk\u0142adzie pomo\u017ce w zrozumieniu zasady dzia\u0142ania mikroprocesor\u00f3w i mikrokontroler\u00f3w oraz zasad rz\u0105dz\u0105cych programowalnymi uk\u0142adami logicznymi FPGA. #### Wymagania Wyk\u0142ad nie wymaga wcze\u015bniejszego zaliczenia innych przedmiot\u00f3w. #### Program 1. Wprowadzenie do uk\u0142ad\u00f3w cyfrowych 2. Technologie implementacji uk\u0142ad\u00f3w cyfrowych 3. Elementy Veriloga jako j\u0119zyka opisu sprz\u0119tu 4. Optymalizacja funkcji logicznych 5. Uk\u0142ady arytmetyczne 6. Podstawowe uk\u0142ady kombinacyjne 7. Zatrzaski i przerzutniki 8. Automaty Moore'a i Mealy'ego 9. Uk\u0142ady sekwencyjne 10. Budowa prostego procesora #### Literatura *",
+        "Wyk\u0142ady": [
+            [
+                "Marek Materzok",
+                "pn 16:00-18:00 (s. 5)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Marek Materzok",
+                "pn 18:00-20:00 (s. 5, 137)"
+            ],
+            [
+                "Vincent Michielini",
+                "wt 12:00-14:00 (s. 5, 7)"
+            ]
+        ]
+    },
+    {
+        "id": 3309,
+        "name": "Mentoring for Data Science",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 42,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/mentoring-for-data-science-202223-letni",
+        "description": "A series of meetings with a teacher designated as mentor for Data Science students. Students are welcome to make individual appointments with the mentor whenever they need advice or help in all academic matters.",
+        "\u0106wiczenia": [
+            [
+                "Rafa\u0142 Nowak",
+                "wt 08:00-09:00 (s. 105)"
+            ]
+        ]
+    },
+    {
+        "id": 3332,
+        "name": "Metody programowania",
+        "courseType": 8,
+        "recommendedForFirstYear": true,
+        "owner": 70,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/metody-programowania-202223-letni",
+        "description": "Metody programowania to jeden z przedmiot\u00f3w obowi\u0105zkowych. Jego zasadniczym celem jest przygotowanie student\u00f3w do u\u017cywania j\u0119zyk\u00f3w programowania jako formalnych narz\u0119dzi komunikacji mi\u0119dzy lud\u017ami, ze szczeg\u00f3lnym uwzgl\u0119dnieniem technik kt\u00f3re mog\u0105 i powinny by\u0107 stosowane do zapanowania nad z\u0142o\u017cono\u015bci\u0105 du\u017cych system\u00f3w. Wyk\u0142ad prowadz\u0105 Dariusz Biernacki, Marek Materzok i Piotr Polesiuk. Program: 1. Abstrakcja funkcyjna 2. Rekursja i iteracja 3. Drzewiaste struktury danych 4. Abstrakcja danych i modularno\u015b\u0107 5. Testowanie automatyczne 6. Rola system\u00f3w typ\u00f3w w programowaniu 7. Struktura program\u00f3w i indukcja 8. Asercje i kontrakty 9. Programowanie imperatywne 10. Niedeterminizm i programowanie z nawrotami 11. Sk\u0142adnia konkretna i abstrakcyjna 12. Gramatyki bezkontekstowe",
+        "Wyk\u0142ady": [
+            [
+                "Dariusz Biernacki",
+                "\u015br 10:00-13:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Piotr Lisowski",
+                "wt 12:00-15:00 (s. 108)"
+            ],
+            [
+                "Robert Ferens",
+                "wt 12:00-15:00 (s. 107)"
+            ],
+            [
+                "Piotr Polesiuk",
+                "wt 12:00-15:00 (s. 109)"
+            ],
+            [
+                "Witold Charatonik",
+                "wt 15:00-18:00 (s. 137)"
+            ],
+            [
+                "Dariusz Biernacki",
+                "wt 09:00-12:00 (s. 109)"
+            ],
+            [
+                "Marek Materzok",
+                "wt 15:00-18:00 (s. 108)"
+            ],
+            [
+                "Tomasz Wierzbicki",
+                "wt 15:00-18:00 (s. )"
+            ],
+            [
+                "Vincent Michielini",
+                "wt 09:00-12:00 (s. 107)"
+            ]
+        ]
+    },
+    {
+        "id": 3366,
+        "name": "Metody zarz\u0105dzania projektami",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/metody-zarzadzania-projektami-202223-letni",
+        "description": "**Zaj\u0119cia prowadzone przez pracownik\u00f3w Volvo Group IT** Wiele wsp\u00f3\u0142czesnych wyzwa\u0144 zwi\u0105zanych z tworzeniem oprogramowania jest realizowanych jako projekty. Celem wyk\u0142ad\u00f3w jest wprowadzenie do metodologii zarz\u0105dzania projektami. Przedstawione zostan\u0105 obecne trendy w modelach zarz\u0105dzania projektami i zasady doboru odpowiedniego modelu w zale\u017cno\u015bci od charakteru projektu. Om\u00f3wiony zostanie r\u00f3wnie\u017c sk\u0142ad zespo\u0142u projektowego w zale\u017cno\u015bci od modelu projektu, role w zespole oraz odpowiedzialno\u015bci i udzia\u0142 poszczeg\u00f3lnych cz\u0142onk\u00f3w zespo\u0142u na r\u00f3\u017cnych etapach projektu. Wyk\u0142ady b\u0119d\u0105 wzbogacone o praktyczne przyk\u0142ady i drobne \u0107wiczenia. Zasygnalizowane r\u00f3wnie\u017c zostan\u0105 \u015bcie\u017cki certyfikacji z zakresu Project Management wraz ze wskaz\u00f3wkami praktyk\u00f3w odno\u015bnie procesu certyfikacji. Program zaj\u0119\u0107: 1. Model projektu kaskadowego",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "cz 14:00-16:00 (s. 119)"
+            ]
+        ]
+    },
+    {
+        "id": 3293,
+        "name": "Neural Networks and Natural Language Processing",
+        "courseType": 39,
+        "recommendedForFirstYear": false,
+        "owner": 42,
+        "effects": [],
+        "tags": [
+            8
+        ],
+        "url": "/courses/neural-networks-and-natural-language-processing-202223-letni",
+        "description": "Neural Networks allow creation of programs that are learned rather than written. This means that instead of implementing a concrete algorithm, the program applies patterns that are automatically found in the data. For example, a translation system such as Google Translate can be created by applying a deep neural network to a large corpus of translated documents. The aim of this course is to present the basics of how neural networks work, both from a more theoretical and practical point of view. Neural Networks can be applied to a wide spectrum of tasks, including image and video processing, creating game",
+        "Wyk\u0142ady": [
+            [
+                "Pawe\u0142 Rychlikowski",
+                "wt 10:00-12:00 (s. 25)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Micha\u0142 Stypu\u0142kowski",
+                "wt 12:00-14:00 (s. 137)"
+            ],
+            [
+                "Miko\u0142aj S\u0142upi\u0144ski",
+                "cz 14:00-16:00 (s. 109)"
+            ],
+            [
+                "Pawe\u0142 Rychlikowski",
+                "cz 08:00-10:00 (s. 107)"
+            ]
+        ]
+    },
+    {
+        "id": 3307,
+        "name": "Numerical Optimization",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 35,
+        "effects": [],
+        "tags": [
+            8
+        ],
+        "url": "/courses/numerical-optimization-202223-letni",
+        "description": "_Mandatory course for Data Science._ This course is a detailed survey of optimization from both a computational and theoretical perspective. Theoretical topics include convex sets, convex functions, optimization problems, least-squares, linear and quadratic programs, optimality conditions, and duality theory. Special emphasis is put on scalable numerical methods for analyzing and solving general smooth unconstrained problems (e.g. first-order and second-order methods), quadratic programs (e.g. linear least squares), general smooth constrained problems (e.g. interior-point methods), as well as, a family of non-smooth problems (e.g. ADMM method). The applications in data sciences, such as machine learning, model fitting, and image processing, will be",
+        "Wyk\u0142ady": [
+            [
+                "Martin B\u00f6hm",
+                "\u015br 14:00-16:00 (s. 5)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Martin B\u00f6hm",
+                "\u015br 16:00-18:00 (s. 5)"
+            ]
+        ]
+    },
+    {
+        "id": 3313,
+        "name": "Ochrona w\u0142asno\u015bci intelektualnej",
+        "courseType": 15,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/ochrona-wasnosci-intelektualnej-202223-letni",
+        "description": "Zaj\u0119cia prowadzone przez dr. Juliana Jezioro z Instytut Prawa Cywilnego WPAiE.",
+        "\u0106wiczenia": [
+            [
+                "Julian Jezioro",
+                "wt 13:00-15:00 (s. 104)"
+            ]
+        ]
+    },
+    {
+        "id": 3303,
+        "name": "Od Mordoru po Matrix. Fantastyczna filozofia polityki",
+        "courseType": 42,
+        "recommendedForFirstYear": true,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/od-mordoru-po-matrix-fantastyczna-filozofia-polityki-202223-letni",
+        "description": "* Przedmiot prowadzony przez dr. hab Bartosza Bolech\u00f3wa z Instytutu Politologii. * Zapoznanie student\u00f3w z problematyk\u0105 b\u0119d\u0105c\u0105 przedmiotem zainteresowania filozofii oraz antropologii polityki (natura polityki, wsp\u00f3lnoty politycznej i cz\u0142owieka jako \u201ezwierz\u0119cia politycznego\u201d; uniwersalne mechanizmy i aporie w\u0142adzy, koncepcje strukturalnej organizacji spo\u0142ecze\u0144stwa; pochodzenie, zmienno\u015b\u0107, ewolucja\u2013 progres, regres, cykliczno\u015b\u0107 - i postulowana warto\u015b\u0107 moralna ustroj\u00f3w oraz instytucji politycznych; \u015bwiatopogl\u0105dy, ideologie, modele polityczne i ich zderzenia z praxis; legitymizacja; dyskurs polityczny; konflikt spo\u0142eczny; rewolucja i wojna; mechanizmy fanatyzmu, ekstremizmu i radykalizmu, utopia jako fikcja spekulatywna; dystopia jako krytyka polityczna, sprz\u0119\u017cenie zwrotne mi\u0119dzy nieu\u015bwiadomion\u0105 i u\u015bwiadomion\u0105 fikcj\u0105 a praktyk\u0105 polityczn\u0105) poprzez analiz\u0119 utwor\u00f3w, gatunk\u00f3w,",
+        "Wyk\u0142ady": [
+            [
+                "Bartosz Bolech\u00f3w",
+                "\u015br 18:00-20:00 (s. 119)"
+            ]
+        ]
+    },
+    {
+        "id": 3348,
+        "name": "Optymalizacja kombinatoryczna",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 37,
+        "effects": [],
+        "tags": [
+            4
+        ],
+        "url": "/courses/optymalizacja-kombinatoryczna-202223-letni",
+        "description": "**Program:** 1.Matchingi. Matchingi (skojarzenia) oraz ich uog\u00f3lnienia pojawiaj\u0105 si\u0119 w bardzo wielu kontekstach, bardziej i mniej oczywistych, m.in. przy: * r\u00f3\u017cnego typu przydzia\u0142ach: zada\u0144 pracownikom lub maszynom, student\u00f3w szko\u0142om itp. * obliczaniu podgraf\u00f3w, w kt\u00f3rych ka\u017cdy wierzcho\u0142ek ma mie\u0107 stopie\u0144 z podanego przedzia\u0142u. Za pomoc\u0105 skojarze\u0144 oblicza si\u0119 np. pokrycia cyklowe (podgrafy, w kt. ka\u017cdy wierzcho\u0142ek ma mie\u0107 stopie\u0144 2) o najmniejszej/najwi\u0119kszej wadze. Takie pokrycia przydaj\u0105 si\u0119 z kolei w znajdowaniu optymalnych dr\u00f3g komiwoja\u017cera, * aukcjach. 2.Matroidy. Przyk\u0142adami matroid\u00f3w s\u0105 lasy w grafach i podzbiory niezale\u017cnych liniowo kolumn danej macierzy. 3.Rozlaczne sciezki, T-joins i T-cuts. T-joiny maj\u0105 zastosowania m.in. w",
+        "Wyk\u0142ady": [
+            [
+                "Katarzyna Paluch",
+                "\u015br 10:00-12:00 (s. 5)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Katarzyna Paluch",
+                "\u015br 12:00-14:00 (s. 5)"
+            ]
+        ]
+    },
+    {
+        "id": 3353,
+        "name": "Optymalizacja kombinatoryczna w warunkach niepewno\u015bci",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 558,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/optymalizacja-kombinatoryczna-w-warunkach-niepewnosci-202223-letni",
+        "description": "Rozwa\u017cmy portal randkowy (nie tinder), w kt\u00f3rym s\u0105 44 tysi\u0105ce kobiet i 44 tysi\u0119ce m\u0119\u017cczyzn. Portal zarabia na miesi\u0119cznej subskrypcji, a jego zadaniem jest proponowanie u\u017cytkownikom randek. Portal u\u017cywaj\u0105c danych u\u017cytkownik\u00f3w (np. z ankiet na temat cech charakteru, ulubionych film\u00f3w i muzyki itd) jest w stanie ca\u0142kiem nie\u017ale wyestymowa\u0107 dla ka\u017cdej pary u\u017cytkownik\u00f3w prawdopodobie\u0144stwo, \u017ce dana para si\u0119 sobie wzajemnie spodoba, o ile tylko p\u00f3jdzie na randk\u0119. Pytanie jednak jest nast\u0119puj\u0105ce: w jaki spos\u00f3b portal powinien proponowa\u0107 randki, aby zmaksymalizowa\u0107 \u015bredni\u0105 (lub te\u017c totaln\u0105 w ci\u0105gu roku) liczb\u0119 szcz\u0119\u015bliwie skojarzonych par? Nie mo\u017cemy przecie\u017c wys\u0142a\u0107 \u017cadnego u\u017cytkownika na 100 nieudanych",
+        "Wyk\u0142ady": [
+            [
+                "Marek Adamczyk",
+                "wt 12:00-14:00 (s. 139)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Marek Adamczyk",
+                "wt 14:00-16:00 (s. 139)"
+            ]
+        ]
+    },
+    {
+        "id": 3361,
+        "name": "Polityka gospodarcza",
+        "courseType": 42,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/polityka-gospodarcza-202223-letni",
+        "description": "*Przedmiot prowadzony przez dr. Miros\u0142awa Strusia z Instytutu Nauk Ekonomicznych.* Celem przedmiotu jest zapoznanie student\u00f3w z podstawami i g\u0142\u00f3wnymi poj\u0119ciami polityki gospodarczej w otwartej gospodarce rynkowej, w celu umo\u017cliwienia im lepszego zrozumienia g\u0142\u00f3wnych zagadnie\u0144 i problem\u00f3w zwi\u0105zanych z przebiegiem proces\u00f3w gospodarczych.",
+        "Wyk\u0142ady": [
+            [
+                "Miros\u0142aw Stru\u015b",
+                "cz 12:00-14:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3311,
+        "name": "Praktyka programowania sportowego",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 71,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/praktyka-programowania-sportowego-202223-letni",
+        "description": "Na zaj\u0119ciach studenci b\u0119d\u0105 rozwi\u0105zywali zadania z zespo\u0142owych zawod\u00f3w programistycznych. Ka\u017cde spotkanie b\u0119dzie mia\u0142o form\u0119 pi\u0119ciogodzinnego treningu przygotowanego na podstawie jednego z konkurs\u00f3w organizowanych w formule ICPC. G\u0142\u00f3wnym celem zaj\u0119\u0107 jest przygotowanie dru\u017cyn, kt\u00f3re reprezentuj\u0105 Uniwersytet Wroc\u0142awski w Akademickich Mistrzostwach Polski w Programowaniu Zespo\u0142owym, a p\u00f3\u017aniej w zawodach ICPC. Ta dru\u017cynowa formu\u0142a nie oznacza jednak, \u017ce warunkiem uczestniczenia w zaj\u0119ciach jest posiadanie sta\u0142ej dru\u017cyny, gdy\u017c celem naszych spotka\u0144 b\u0119dzie tak\u017ce sprawdzenie w praktyce r\u00f3\u017cnych strategii i sk\u0142ad\u00f3w zespo\u0142\u00f3w.",
+        "Pracownie": [
+            [
+                "Pawe\u0142 Gawrychowski",
+                "pt 13:00-16:00 (s. 107)"
+            ],
+            [
+                "Pawe\u0142 Gawrychowski",
+                "pt 10:00-13:00 (s. 107)"
+            ]
+        ]
+    },
+    {
+        "id": 3305,
+        "name": "Praktyka zawodowa - cztery tygodnie",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 34,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/praktyka-zawodowa-cztery-tygodnie-202223-letni",
+        "description": "Zaliczenie praktyki zawodowej jest wymagane do uko\u0144czenia studi\u00f3w pierwszego stopnia.",
+        "\u0106wiczenia": [
+            [
+                "Marcin M\u0142otkowski",
+                "pt 14:00-15:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3314,
+        "name": "Praktyka zawodowa - pi\u0119\u0107 tygodni",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 34,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/praktyka-zawodowa-piec-tygodni-202223-letni",
+        "description": "Brak",
+        "\u0106wiczenia": [
+            [
+                "Marcin M\u0142otkowski",
+                "pt 13:00-14:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3323,
+        "name": "Praktyka zawodowa - sze\u015b\u0107 tygodni",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 34,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/praktyka-zawodowa-szesc-tygodni-202223-letni",
+        "description": "Brak",
+        "\u0106wiczenia": [
+            [
+                "Marcin M\u0142otkowski",
+                "pt 12:00-13:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3283,
+        "name": "Praktyka zawodowa - trzy tygodnie",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 34,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/praktyka-zawodowa-trzy-tygodnie-202223-letni",
+        "description": "Wymiar zaj\u0119\u0107 - 3 tygodnie",
+        "\u0106wiczenia": [
+            [
+                "Marcin M\u0142otkowski",
+                "pt 15:00-16:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3317,
+        "name": "Programowanie obiektowe",
+        "courseType": 5,
+        "recommendedForFirstYear": true,
+        "owner": 34,
+        "effects": [
+            8,
+            2
+        ],
+        "tags": [],
+        "url": "/courses/programowanie-obiektowe-202223-letni",
+        "description": "Celem zaj\u0119\u0107 jest poznanie jednego z najpowszechniej stosowanego paradygmatu programowania: programowania obiektowego. Program obejmuje zar\u00f3wno przedstawienie podstawowych poj\u0119\u0107 takich jak klasa, obiekt, dziedziczenie czy metody wirtualne, jak i praktyk\u0119 wykorzystania tych element\u00f3w w budowaniu z\u0142o\u017conych program\u00f3w za pomoc\u0105 wzorc\u00f3w projektowych. Nauk\u0119 programowania obiektowego b\u0119d\u0105 wspiera\u0107 j\u0119zyki obiektowe, zar\u00f3wno te z tzw. statycznym typowaniem jak i dynamicznym.",
+        "Wyk\u0142ady": [
+            [
+                "Marcin M\u0142otkowski",
+                "cz 10:00-12:00 (s. 119)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Marcin M\u0142otkowski",
+                "\u015br 08:00-10:00 (s. 107)"
+            ],
+            [
+                "Marcin M\u0142otkowski",
+                "cz 14:00-16:00 (s. 137)"
+            ],
+            [
+                "Marcin M\u0142otkowski",
+                "cz 12:00-14:00 (s. 137)"
+            ],
+            [
+                "Pawe\u0142 Lasko\u015b-Grabowski",
+                "\u015br 16:00-18:00 (s. 107)"
+            ],
+            [
+                "Zdzis\u0142aw P\u0142oski",
+                "cz 14:00-16:00 (s. 7)"
+            ],
+            [
+                "Zdzis\u0142aw P\u0142oski",
+                "cz 12:00-14:00 (s. 7)"
+            ]
+        ]
+    },
+    {
+        "id": 3289,
+        "name": "Projekt: Deep Learning",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 35,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-deep-learning-202223-letni",
+        "description": "Celem projektu jest doskonalenie umiej\u0119tno\u015bci programowania metod zwi\u0105zanych z g\u0142\u0119bokim uczeniem (ang. _deep learning_ ). W ramach projektu om\u00f3wione zostan\u0105 zastosowania g\u0142\u0119bokich sieci neuronowych do przetwarzania tekstu i obraz\u00f3w. W programie projektu przewiduje si\u0119 programowanie sieci zwi\u0105zanych z klasyfikacj\u0105, detekcj\u0105 obiekt\u00f3w oraz segmentacj\u0105 obraz\u00f3w za pomoc\u0105 takich sieci neuronowych jak: * g\u0142\u0119bokie sieci splotowe (deep convolutional neural networks, CNN) * region-based CNN (RCNN) * Mask-RCNN * Fast-RCNN, Faster-RCNN Realizacja projektu b\u0119dzie wymaga\u0142a zaprogramowanie ca\u0142o\u015bci procesu: * pobeiranie i przetwarzanie danych * przygotowanie danych do uczenia i testowania * utworzenie odpowiedniego modelu * tranowanie i walidacja modelu * testowanie modelu *",
+        "Projekty": [
+            [
+                "Rafa\u0142 Nowak",
+                "cz 10:00-12:00 (s. 107)"
+            ]
+        ]
+    },
+    {
+        "id": 3342,
+        "name": "Projekt dyplomowy",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 13,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-dyplomowy-202223-letni",
+        "description": "W ramach przedmiotu studenci przygotowuj\u0105 prace dyplomow\u0105 wymagan\u0105 do zako\u0144czenie studi\u00f3w lic/in\u017c pod kierunkiem dr. in\u017c Leszka Grocholskiego. Tematy proc dyplomowych wymagaj\u0105 zaakceptowania przez Komisj\u0119 ds. Prac Dyplomowych.",
+        "Projekty": [
+            [
+                "Leszek Grocholski",
+                "wt 14:00-16:00 (s. 7)"
+            ]
+        ]
+    },
+    {
+        "id": 3327,
+        "name": "Projekt: Kompetytywna Sztuczna Inteligencja",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 109,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-kompetytywna-sztuczna-inteligencja-202223-letni",
+        "description": "W ramach projektu, kilkuosobowe grupy b\u0119d\u0105 programowa\u0142y boty graj\u0105ce w jedne z istniej\u0105cych zawod\u00f3w AI. Poszczeg\u00f3lne zespo\u0142y nie b\u0119d\u0105 dzia\u0142a\u0142y w odosobnieniu, lecz na regularnych spotkaniach z prowadz\u0105cymi oraz pozosta\u0142ymi uczestnikami przedmiotu b\u0119d\u0105 prezentowa\u0107 post\u0119py prac, dzieli\u0107 si\u0119 w\u0105tpliwo\u015bciami i s\u0142ucha\u0107 pomys\u0142\u00f3w na alternatywne podej\u015bcia. Naszym celem jest wprowadzi\u0107 do kompetytywnej Sztucznej Inteligencji silny element wsp\u00f3\u0142pracy i wzajemnej nauki jako \u015brodka do osi\u0105gania lepszych wynik\u00f3w. Na koniec projektu, opr\u00f3cz przedstawienia swojego bota, ka\u017cda z grup przygotuje te\u017c kr\u00f3tki raport z historii jej tworzenia oraz opisuj\u0105cy mechanizmy zaimplementowane w finalnej wersji. Przegl\u0105dowe listy interesuj\u0105cych nas wydarze\u0144 (oczywi\u015bcie b\u0119d\u0105 nas interesowa\u0142y aktualne",
+        "Projekty": [
+            [
+                "Jakub Kowalski",
+                "wt 16:00-18:00 (s. 107)"
+            ]
+        ]
+    },
+    {
+        "id": 3363,
+        "name": "Projekt: Ku\u017ania rdzeni",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 92,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-kuznia-rdzeni-202223-letni",
+        "description": "Celem projektu jest praktyczna nauka architektur komputer\u00f3w poprzez ich implementacj\u0119 w formie umo\u017cliwiaj\u0105cej syntez\u0119 na uk\u0142ady FPGA. W ramach projektu powstaje rdze\u0144 o nazwie Coreblocks, implementuj\u0105cy zestaw instrukcji [RISC-V](https://github.com/riscv/riscv-isa-manual/releases/download/Ratified-IMAFDQC/riscv-spec-20191213.pdf) (RV32I) w mikroarchitekturze out-of-order. Implementacja b\u0119dzie mia\u0142a w za\u0142o\u017ceniu modularny charakter \"generatora rdzeni\", umo\u017cliwiaj\u0105cy dodawanie, rekonfiguracj\u0119 i wymian\u0119 element\u00f3w sk\u0142adowych rdzenia bez g\u0142\u0119bokich zmian w kodzie. Dalszymi celami projektu s\u0105: * Integracja z generatorem uk\u0142ad\u00f3w SoC (System on Chip) [LiteX](https://github.com/enjoy-digital/litex), co umo\u017cliwi u\u017cycie rdzenia w charakterze mikrokontrolera. * Budowa mechanizm\u00f3w automatycznego testowania, umo\u017cliwiaj\u0105cych sprawdzanie poprawno\u015bci oraz parametr\u00f3w wydajno\u015bciowych (np. maksymalna cz\u0119stotliwo\u015b\u0107 taktowania, liczba u\u017cytych zasob\u00f3w FPGA) w miar\u0119 rozwoju projektu. *",
+        "Projekty": [
+            [
+                "Marek Materzok",
+                "pt 10:00-12:00 (s. 110)"
+            ]
+        ]
+    },
+    {
+        "id": 3333,
+        "name": "Projekt: Machine Learning for Temporal Data Mining",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 50,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-machine-learning-for-temporal-data-mining-202223-letni",
+        "description": "Celem projektu jest opracowanie/wykorzystanie/rozszerzenie algorytm\u00f3w uczenia maszynowego zwi\u0105zanych z przetwarzaniem danych czasowych (m.in. szereg\u00f3w czasowych, modeli ze stanami ukrytymi, itp.) i wykorzystanie ich do konstrukcji prototypu systemu dla wybranego problemu/zbioru danych. **UWAGA:** Projekt jest przeznaczony dla os\u00f3b posiadaj\u0105cych wiedz\u0119 z eksploracji danych i uczenia maszynowego (w zakresie potrzebnym do realizacji projektu) oraz umiej\u0119tno\u015bci techniczne w tym zakresie. Cz\u0119\u015b\u0107 prac mo\u017ce by\u0107 wykonywana przez osoby z mniejszym do\u015bwiadczeniem, ale zaleca\u0142bym kontakt emailem i ustalenie tego przed zapisaniem si\u0119.",
+        "Projekty": [
+            [
+                "Piotr Wnuk-Lipi\u0144ski",
+                "\u015br 12:00-14:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3282,
+        "name": "Projekt: Rozw\u00f3j Systemu Zapis\u00f3w",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 481,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-rozwoj-systemu-zapisow-202223-letni",
+        "description": "**Uwaga: pierwsza pracownia (23.02) nie odb\u0119dzie si\u0119.** W ramach projektu grupa student\u00f3w rozwija istniej\u0105cy System Zapis\u00f3w na zaj\u0119cia: ulepsza istniej\u0105ce funkcjonalno\u015bci, usuwa niepotrzebne i wprowadza nowe. System Zapis\u00f3w napisany jest w Pythonie z u\u017cyciem framework-u Django, a elementy front-endowe zazwyczaj powstaj\u0105 w TypeScript'cie. Jednakowo\u017c znajomo\u015b\u0107 tych technologii nie jest warunkiem koniecznym uczestnictwa w projekcie. Oczekuje si\u0119 od student\u00f3w raczej gotowo\u015bci do zanurzenia si\u0119 w du\u017cym, istniej\u0105cym projekcie, rozpoznania terenu i wykonywania w nim zada\u0144. Przedmiot zalicza wymaganie projektu zespo\u0142owego. Mo\u017cna uczestniczy\u0107 w nim wielokrotnie. Praca zespo\u0142owa student\u00f3w oparta jest na GitHubie (issue, pull-request, code-review), a bie\u017c\u0105ca komunikacja jest asynchroniczna (z",
+        "Projekty": [
+            [
+                "Pawe\u0142 Lasko\u015b-Grabowski",
+                "cz 16:00-18:00 (s. wirtualna2)"
+            ]
+        ]
+    },
+    {
+        "id": 3453,
+        "name": "Projekt: silnik szachowy",
+        "courseType": 13,
+        "recommendedForFirstYear": false,
+        "owner": 558,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/projekt-silnik-szachowy-202223-letni",
+        "description": "Podejmiemy si\u0119 wyzwania napisania w\u0142asnego silnika szachowego wzorowanego na self playu AlphaZero. W pierwszej cz\u0119\u015bci zaj\u0119\u0107 b\u0119dziemy budowali ca\u0142y framework. Czyli zupe\u0142nie zwyk\u0142y silnik szachowy oparty na Monte Carlo Tree Search, z kt\u00f3rym b\u0119dzie mo\u017cna gra\u0107 samemu, a jednocze\u015bnie ewaluowa\u0107 jego pozycje za pomoc\u0105 Stockfisha i Leela Chess. Maj\u0105c ju\u017c taki framework przejdziemy nast\u0119pnie do metod deep learningowych opisanych w tej ksi\u0105\u017cce https://arxiv.org/abs/2209.01506",
+        "Projekty": [
+            [
+                "Aleksander \u0141ukasiewicz",
+                "pn 12:00-14:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3324,
+        "name": "Projektowanie obiektowe oprogramowania",
+        "courseType": 7,
+        "recommendedForFirstYear": false,
+        "owner": 7,
+        "effects": [
+            9,
+            2
+        ],
+        "tags": [
+            1
+        ],
+        "url": "/courses/projektowanie-obiektowe-oprogramowania-202223-letni",
+        "description": "Wyk\u0142ad skierowany jest do przysz\u0142ych architekt\u00f3w system\u00f3w informatycznych oraz do wszystkich programist\u00f3w zainteresowanych udoskonaleniem swojego warsztatu. Celem wyk\u0142adu jest zapoznanie student\u00f3w z kanonem wsp\u00f3\u0142czesnych narz\u0119dzi w zakresie projektowania obiektowego oprogramowania. Materia\u0142 wyk\u0142adu obejmuje: * podstawy j\u0119zyka UML w zakresie wymaganym przez projekty analityczne i techniczne * zasady SOLID i GRASP * przegl\u0105d katalogu wzorc\u00f3w projektowych (GoF) (m.in. Observer, Builder, Bridge, State, Strategy, Facade, Adapter, Mediator, itd.) * przegl\u0105d katalogu wzorc\u00f3w architektury aplikacji (wzorce architektoniczne) (m.in. Model-View-Controller, Object-Relational Mapping, Dependency Injection, Service Locator, Mock Object, itd.) * przegl\u0105d katalogu wzorc\u00f3w architektury system\u00f3w (Enterprise Service Bus, Single Sign-on) Celem pracowni jest praktyczny",
+        "Wyk\u0142ady": [
+            [
+                "Wiktor Zychla",
+                "wt 14:00-16:00 (s. 119)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Pawe\u0142 Rzechonek",
+                "cz 18:00-20:00 (s. 107)"
+            ],
+            [
+                "Marcin M\u0142otkowski",
+                "\u015br 12:00-14:00 (s. 137)"
+            ],
+            [
+                "Wiktor Zychla",
+                "wt 16:00-18:00 (s. 110)"
+            ]
+        ]
+    },
+    {
+        "id": 3326,
+        "name": "Proseminarium: Linux kawa\u0142ek po kawa\u0142ku",
+        "courseType": 41,
+        "recommendedForFirstYear": false,
+        "owner": 49,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/proseminarium-linux-kawaek-po-kawaku-202223-letni",
+        "description": "Aby stworzy\u0107 kompletny system operacyjny wykorzystuj\u0105cy j\u0105dro Linuksa potrzeba skompletowa\u0107 od autor\u00f3w (*upstream*) kody \u017ar\u00f3d\u0142owe wielu program\u00f3w, dostosowa\u0107 je (*patch*) oraz skompilowa\u0107 i skonfigurowa\u0107 kompletn\u0105 przestrze\u0144 u\u017cytkownika. W ten spos\u00f3b powstaj\u0105 tzw. *dystrybucje* Linuksa. Aby korzysta\u0107 z Linuksa, zwykle instalujemy jedn\u0105 z takich dystrybucji, dzi\u0119ki temu jeste\u015bmy zwolnieni z konieczno\u015bci kompilowania i konfigurowania systemu, a nawet nie musimy sobie zdawa\u0107 sprawy z jego zawarto\u015bci. \u015awietnym sposobem na poznanie architektury systemu linuksowego jest w\u0142asnor\u0119czne zbudowanie go krok po kroku *od zera*. Pomaga w tym projekt Gerarda Beekmansa \u201eLinux from scratch\u201d rozpocz\u0119ty w 1999 i nadal aktywnie rozwijany (obecna wersja: 11.1). Jest",
+        "Seminaria": [
+            [
+                "Tomasz Wierzbicki",
+                "\u015br 12:00-14:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3450,
+        "name": "Proseminarium: Testowanie oprogramowania",
+        "courseType": 41,
+        "recommendedForFirstYear": false,
+        "owner": 13,
+        "effects": [],
+        "tags": [
+            1
+        ],
+        "url": "/courses/proseminarium-testowanie-oprogramowania-202223-letni",
+        "description": "Seminarium dotyczy metod, technik, norm, narz\u0119dzi testowania. Opr\u00f3cz testowania system\u00f3w obiektowych (modele, wzorce, narz\u0119dzia) wa\u017cne b\u0119d\u0105 r\u00f3wnie\u017c testy akceptacji, pokrycie testami, automatyzacja test\u00f3w itp. **Program:** 1. Wytwarzanie oprogramowania sterowane testami 2. Testy akceptacji 3. Automatyczne testowanie interfejs\u00f3w 4. Modele test\u00f3w 5. Wzorce projektowania test\u00f3w 6. Narz\u0119dzia testowania 7. Projektowanie automatyzacji test\u00f3w 8. Zgodne z RODO testowanie oprogramowania ****",
+        "Seminaria": [
+            [
+                "Leszek Grocholski",
+                "cz 18:00-20:00 (s. 4)"
+            ]
+        ]
+    },
+    {
+        "id": 3346,
+        "name": "Przetwarzanie Obraz\u00f3w / Digital Image Processing",
+        "courseType": 39,
+        "recommendedForFirstYear": false,
+        "owner": 8,
+        "effects": [],
+        "tags": [
+            5
+        ],
+        "url": "/courses/przetwarzanie-obrazow-digital-image-processing-202223-letni",
+        "description": "Przedmiot mo\u017ce si\u0119 odby\u0107 w j\u0119zyku polskim lub angielskim o czym mo\u017cemy zadecydowa\u0107 na pierwszych zaj\u0119ciach (Language can be switched to English or Polish, we can decide about it on the first lecture). Advances in digital photography have made great interest in Digital Image Processing (DIP) area and created new research field of Computational Photography (CP). In this lecture we will present both classical DIP methods which are the main tools in image editors as well as the new methods from the CP. **Topics:** 1. Color Science and High Dynamic Range Imaging 2. Per pixel operations, histograms, combining images 3.",
+        "Wyk\u0142ady": [
+            [
+                "Andrzej \u0141ukaszewski",
+                "pn 14:00-16:00 (s. 140)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Andrzej \u0141ukaszewski",
+                "pn 16:00-18:00 (s. 7, 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3345,
+        "name": "Rachunek prawdopodobie\u0144stwa i statystyka",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 19,
+        "effects": [
+            10,
+            4
+        ],
+        "tags": [
+            5
+        ],
+        "url": "/courses/rachunek-prawdopodobienstwa-i-statystyka-202223-letni",
+        "description": "**Program:** 1. Poj\u0119cie prawdopodobie\u0144stwa, przestrze\u0144 zdarze\u0144, poj\u0119cie zmiennej losowej, jej rozk\u0142ad i charakteryzacja. 2. Zmienne losowe dyskretne (rozk\u0142ady: Bernoulliego, geometryczny, Poissona, hipergeometryczny). 3. Zmienne losowe ci\u0105g\u0142e (rozk\u0142ady: jednostajny, wyk\u0142adniczy, gamma, normalny, beta, Weibulla). Charakterystyki zmiennych losowych - momenty. 4. Rozk\u0142ady zmiennych losowych wielowymiarowych (rozk\u0142ad dwuwymiarowy, rozk\u0142ad warunkowy, rozk\u0142ad brzegowy, niezale\u017cno\u015b\u0107 dw\u00f3ch zmiennych losowych); Macierze kowariancji i korelacji. Wielowymiarowy rozk\u0142ad normalny i szczeg\u00f3lny przypadek dwuwymiarowy(elipsa koncentracji, proste regresji). 5. Funkcje od dwuwymiarowych zmiennych losowych. Wyznaczanie g\u0119sto\u015bci i dystrybuanty funkcji zmiennych losowych. 6. Funkcja charakterystyczna i jej w\u0142asno\u015bci. Zwi\u0105zek funkcji charakterystycznej z momentami zmiennej. 7. Populacja i pr\u00f3bka. Rozk\u0142ady pr\u00f3bkowe (chi-kwadrat, t-Studenta,",
+        "Wyk\u0142ady": [
+            [
+                "Witold Karczewski",
+                "cz 12:00-14:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Witold Karczewski",
+                "cz 18:00-20:00 (s. 5)"
+            ],
+            [
+                "Witold Karczewski",
+                "cz 16:00-18:00 (s. 105)"
+            ],
+            [
+                "Mansooreh Shoghi",
+                "pn 12:00-14:00 (s. 140)"
+            ],
+            [
+                "Mansooreh Shoghi",
+                "wt 12:00-14:00 (s. 4)"
+            ]
+        ]
+    },
+    {
+        "id": 3306,
+        "name": "Scala in Practice",
+        "courseType": 40,
+        "recommendedForFirstYear": false,
+        "owner": 542,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/scala-in-practice-202223-letni",
+        "description": "Scala is currently one of the most popular programming languages, with a [high demand](https://insights.stackoverflow.com/survey/2019?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2019#top-paying-technologies) amongst software development companies, globally. It\u2019s functional & object oriented dual nature, static typing, high expressiveness & JVM integration makes it a perfect choice for many companies. User\u2019s include the likes of Twitter, LinkedIn, Infor, Netflix & Amazon, amongst others. These companies use Scala to create web portals, big data applications... and code-generators [[ScalaUA 2019](https://www.youtube.com/watch?v=DLjALS_Lbn8&feature=youtu.be)]. The goal of this course is to introduce students to the syntax of the language, along with the frameworks and libraries associated with it, which are a standard in the industry.",
+        "Wyk\u0142ady": [
+            [
+                "Micha\u0142 Kowalczykiewicz",
+                "wt 18:00-20:00 (s. wirtualna4)"
+            ]
+        ],
+        "Pracownie": [
+            [
+                "Micha\u0142 Kowalczykiewicz",
+                "\u015br 18:00-20:00 (s. wirtualna1)"
+            ],
+            [
+                "Micha\u0142 Kowalczykiewicz",
+                "cz 18:00-20:00 (s. )"
+            ],
+            [
+                "Dariusz Biernacki",
+                "pn 14:00-16:00 (s. 137)"
+            ]
+        ]
+    },
+    {
+        "id": 3431,
+        "name": "Seminar: Modern Data Mining",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 50,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminar-modern-data-mining-202223-letni",
+        "description": "_**UWAGA**: W przypadku takiej konieczno\u015bci, w roku akademickim 2020/21 zaj\u0119cia mog\u0105 by\u0107 prowadzone zdalnie przez Google Meet lub podobne narz\u0119dzie interaktywnej komunikacji._ This seminar focuses on advanced data mining algorithms for processing big, complex and unstructured data. It mainly concerns recommendation systems, dimensionality reduction with neighborhood embedding, temporal data mining and decision support systems. In recommendation systems, various approaches from simple collaborative filtering to advanced matrix factorization are presented and discussed in the context of their practical relevance, concerning not only the popular MSE or MAE measures, but also the coverage, diversity, and novelty of recommendations. In temporal data mining,",
+        "Seminaria": [
+            [
+                "Piotr Wnuk-Lipi\u0144ski",
+                "cz 12:00-14:00 (s. 4)"
+            ]
+        ]
+    },
+    {
+        "id": 3328,
+        "name": "Seminar: Software Engineering",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 13,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminar-software-engineering-202223-letni",
+        "description": "During Seminar Software Engineering Students present popular standards, methods, tools use during software development. In presentation it is particularly important for students who work in leading IT companies to inform less experience students information about what methods they use and what tools they use when developing software. Seminar aimed at inspiring future software engineers for self-development and self-preparation for professional work.",
+        "Seminaria": [
+            [
+                "Leszek Grocholski",
+                "cz 16:00-18:00 (s. 4)"
+            ]
+        ]
+    },
+    {
+        "id": 3338,
+        "name": "Seminarium: Analiza problem\u00f3w algorytmicznych",
+        "courseType": 14,
+        "recommendedForFirstYear": true,
+        "owner": 71,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminarium-analiza-problemow-algorytmicznych-202223-letni",
+        "description": "Uwaga: seminarium planujemy prowadzi\u0107 (pod tak\u0105 sam\u0105 nazw\u0105) zar\u00f3wno w semestrze zimowym jak i letnim. Mo\u017cna je b\u0119dzie zaliczy\u0107 wi\u0119cej ni\u017c raz. Zaj\u0119cia b\u0119d\u0105 po\u015bwi\u0119cone analizie trudnych zada\u0144 z zawod\u00f3w programistycznych typu ICPC, TopCoder, czy Google Code Jam. G\u0142\u00f3wnym celem spotka\u0144 b\u0119dzie zar\u00f3wno zapoznanie student\u00f3w z og\u00f3lnymi zaawansowanymi technikami algorytmicznymi, kt\u00f3re przydaj\u0105 si\u0119 w takich problemach, a nie s\u0105 przedstawiane na wyk\u0142adzie z Algorytm\u00f3w i Struktur Danych, jak i regularne omawianie ciekawszych zada\u0144, kt\u00f3re pojawi\u0105 si\u0119 na niedawno przeprowadzonych konkursach. Podczas dyskusji zostan\u0105 poruszone tak\u017ce bardziej praktyczne kwestie sprawnej implementacji skomplikowanych rozwi\u0105za\u0144. Zaj\u0119cia s\u0105 przeznaczone dla student\u00f3w, kt\u00f3rzy zdobyli ju\u017c",
+        "Seminaria": [
+            [
+                "Pawe\u0142 Gawrychowski",
+                "pn 16:00-18:00 (s. 141)"
+            ]
+        ]
+    },
+    {
+        "id": 3447,
+        "name": "Seminarium: Deep Learning",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 558,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminarium-deep-learning-202223-letni",
+        "description": "Brak",
+        "Seminaria": [
+            [
+                "Marek Adamczyk",
+                "pn 16:00-18:00 (s. 4)"
+            ]
+        ]
+    },
+    {
+        "id": 3302,
+        "name": "Seminarium: Grafika komputerowa",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 8,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminarium-grafika-komputerowa-202223-letni",
+        "description": "Celem seminarium jest przegl\u0105d ciekawszych prac z ostatnich lat dotycz\u0105cych szeroko rozumianej grafiki komputerowej. Wymagana jest znajomo\u015b\u0107 tematyki minimum na poziomie wyk\u0142adu z podstaw grafiki komputerowej i ciekawo\u015b\u0107 wiedzy, cz\u0119\u015b\u0107 prac mo\u017ce dotyka\u0107 tematyki przetwarzania obraz\u00f3w czy te\u017c og\u00f3lniej wizji komputerowej. Omawia\u0107 b\u0119dziemy prace z wiod\u0105cych konferencji takich jak np. ACM SIGGRAPH, EUROGRAPHICS. Uczestnicy seminarium zapoznaj\u0105 si\u0119 ze stanem bie\u017c\u0105cych bada\u0144 w wybranych tematach i nab\u0119d\u0105 umiej\u0119tno\u015b\u0107 dalszego zg\u0142\u0119biania rozwoju grafiki komputerowej poprzez \u015bledzenie i czytanie prac z renomowanych konferencji naukowych. Odno\u015bniki: * http://www.siggraph.org * http://www.eg.org * http://kesen.realtimerendering.com",
+        "Seminaria": [
+            [
+                "Andrzej \u0141ukaszewski",
+                "\u015br 12:00-14:00 (s. 141)"
+            ]
+        ]
+    },
+    {
+        "id": 3365,
+        "name": "Seminarium: Logika i teoria typ\u00f3w",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminarium-logika-i-teoria-typow-202223-letni",
+        "description": "W ramach seminarium b\u0119dziemy poszukiwa\u0107 zwi\u0105zk\u00f3w pomi\u0119dzy systemami logicznymi a j\u0119zykami programowania i systemami typ\u00f3w. Odpowiednio\u015b\u0107 ta jest znana jako izomorfizm Curry'ego-Howarda, a tak\u017ce w formie sloganu \"dowody jako programy\" (czyli je\u015bli dowodzimy przez indukcj\u0119 to tak naprawd\u0119 piszemy program rekurencyjny w j\u0119zyku funkcyjnym). Punktem wyj\u015bcia b\u0119d\u0105 klasyczne \"Lectures on the Curry-Howard Isomorphism\" M.H. Soerensena i P. Urzyczyna. Przyk\u0142adowe zagadnienia: Logika intuicjonistyczna i typowany rachunek lambda. Rachunek kombinator\u00f3w i system Hiberta. Logika klasyczna i operatory sterowania. Ekstrakcja program\u00f3w z dowod\u00f3w. Logiki wy\u017cszych rz\u0119d\u00f3w i PTSy (Pure Type Systems). Pewne logiki substrukturalne i odpowiadaj\u0105ce im warianty rachunku lambda. Wymagania: Logika dla",
+        "Seminaria": [
+            [
+                "Ma\u0142gorzata Biernacka",
+                "cz 14:00-16:00 (s. 5)"
+            ]
+        ]
+    },
+    {
+        "id": 3423,
+        "name": "Seminarium: Teoria Baz Danych Dla Semantyki Multisetowej",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 31,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/seminarium-teoria-baz-danych-dla-semantyki-multisetowej-202223-letni",
+        "description": "Teoria baz danych wyja\u015bnia r\u00f3\u017cne mechanizmy system\u00f3w bazodanowych, albo t\u0142umaczy brak takich mechanizm\u00f3w. Ca\u0142kiem sporo pracy r\u00f3\u017cni zdolni ludzie w\u0142o\u017cyli w powstanie tej teorii. I to co stworzyli jest porz\u0105dnym kawa\u0142kiem matematycznej informatyki, pe\u0142nym fajnych twierdze\u0144. Ale ma jedn\u0105 powa\u017cn\u0105 s\u0142abo\u015b\u0107. Ot\u00f3\u017c ca\u0142a ta teoria opiera si\u0119 na modelu w kt\u00f3rym systemy bazodanowe operuj\u0105 na relacjach, czyli zbiorach krotek. A bardziej realistyczny (nie zawsze, ale cz\u0119sto) by\u0142by model w kt\u00f3rym mamy do czynienia z multizbiorami krotek. Okazuje si\u0119 \u017ce taka, drobna niby, zmiana modelu kompletnie wywraca ca\u0142\u0105 pracowicie zbudowan\u0105 teori\u0119: w modelu multizbiorowym diabli bior\u0105 wszystkie wyniki i wszystkie techniki",
+        "Seminaria": [
+            [
+                "Jerzy Marcinkowski",
+                "wt 14:00-16:00 (s. 310)"
+            ]
+        ]
+    },
+    {
+        "id": 3295,
+        "name": "Sieci komputerowe",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 11,
+        "effects": [
+            6
+        ],
+        "tags": [],
+        "url": "/courses/sieci-komputerowe-202223-letni",
+        "description": "Wyk\u0142ad jest wst\u0119pem do szerokiej tematyki sieci komputerowych. Przedstawione b\u0119d\u0105 na nim podstawowe zasady dzia\u0142ania sieci komputerowych, ze szczeg\u00f3lnym uwzgl\u0119dnieniem sieci opartych na protokole TCP/IP, oraz przegl\u0105d zastosowa\u0144 sieciowych spotykanych w Internecie. Nacisk po\u0142o\u017cony b\u0119dzie na przedstawienie s\u0142uchaczowi mechanizm\u00f3w, protoko\u0142\u00f3w i algorytmicznych podstaw stoj\u0105cych za problemami komunikacji w sieciach, a tak\u017ce na praktyczne wykorzystanie element\u00f3w tej wiedzy. **Om\u00f3wione zostan\u0105 nast\u0119puj\u0105ce zagadnienia:** 1. Podstawowe poj\u0119cia, protoko\u0142y, model warstwowy. 2. Warstwa sieciowa: adresowanie CIDR, routing, protoko\u0142y IP i ICMP, tworzenie tablic routingu oparte o stan \u0142\u0105czy i wektory odleg\u0142o\u015bci, systemy autonomiczne, budowa routera, NAT. 3. Warstwa \u0142\u0105cza danych i fizyczna: Ethernet, sieci",
+        "Wyk\u0142ady": [
+            [
+                "Marcin Bie\u0144kowski",
+                "\u015br 15:00-17:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Andrzej \u0141ukaszewski",
+                "cz 10:00-12:00 (s. 110)"
+            ],
+            [
+                "Andrzej \u0141ukaszewski",
+                "cz 14:00-16:00 (s. 110)"
+            ],
+            [
+                "Andrzej \u0141ukaszewski",
+                "\u015br 10:00-12:00 (s. 109)"
+            ],
+            [
+                "Tomasz Wierzbicki",
+                "cz 18:00-20:00 (s. 109)"
+            ],
+            [
+                "Tomasz Wierzbicki",
+                "cz 16:00-18:00 (s. 109)"
+            ],
+            [
+                "Marcin Bie\u0144kowski",
+                "\u015br 10:00-12:00 (s. 110)"
+            ]
+        ]
+    },
+    {
+        "id": 3312,
+        "name": "Spectral Graph Theory",
+        "courseType": 14,
+        "recommendedForFirstYear": false,
+        "owner": 102,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/spectral-graph-theory-202223-letni",
+        "description": "We would explore the field of Spectral Graph Theory by reading and discussing selected fragments of the following book: http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf This advanced semminar will only be organized if we find a strong group of entusiasts, who would agree to take the challenge of reading and presenting 1 or 2 selected fragments of the book. As an organizer, I would also participate in this effort. Additionally I would try to comment on the contents being presented. Depending on the set of people who sign in, the presentations may be either in polish or in english. However, there are no source materials",
+        "Seminaria": [
+            [
+                "Jaros\u0142aw Byrka",
+                "cz 12:00-14:00 (s. 5)"
+            ]
+        ]
+    },
+    {
+        "id": 3322,
+        "name": "Systemy komputerowe",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 5,
+        "effects": [
+            3,
+            5
+        ],
+        "tags": [],
+        "url": "/courses/systemy-komputerowe-202223-letni",
+        "description": "Celem wyk\u0142adu jest przedstawienie studentom najwa\u017cniejszych idei, algorytm\u00f3w i struktur danych wykorzystywanych w systemach komputerowych, g\u0142\u00f3wnie w sprz\u0119cie, systemach operacyjnych i narz\u0119dziach systemowych. **Uwaga**: Mimo, i\u017c przedmiot pokrywa efekty kszta\u0142cenia przedmiot\u00f3w ASK i SO, to podej\u015bcie do poruszanych temat\u00f3w jest zasadniczo odmienne. Ten wyk\u0142ad skierowany jest g\u0142\u00f3wnie do student\u00f3w z zaci\u0119ciem teoretycznym. Zasady przyznawania punkt\u00f3w dla os\u00f3b, kt\u00f3re zaliczy\u0142y ju\u017c przynajmniej jeden z powy\u017cszych przedmiot\u00f3w: 1. Osoby, kt\u00f3re zaliczy\u0142y ASK oraz SO, otrzymaj\u0105 za SyK 0 ECTS, a 2. Osoby, kt\u00f3re zaliczy\u0142y ASK albo SO, otrzymaj\u0105 za SyK 4 ECTS. Program wyk\u0142adu opracowano wsp\u00f3lnie z **Krystianem Bac\u0142awskim**. ### Tematy wyk\u0142ad\u00f3w",
+        "Wyk\u0142ady": [
+            [
+                "Piotr Witkowski",
+                "cz 10:00-12:00 (s. wirtualna4)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Piotr Witkowski",
+                "cz 14:00-16:00 (s. wirtualna4)"
+            ],
+            [
+                "Piotr Witkowski",
+                "\u015br 10:00-12:00 (s. wirtualna4)"
+            ]
+        ]
+    },
+    {
+        "id": 3294,
+        "name": "Sztuczna inteligencja",
+        "courseType": 7,
+        "recommendedForFirstYear": false,
+        "owner": 42,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/sztuczna-inteligencja-202223-letni",
+        "description": "Sztuczna inteligencja jest dziedzin\u0105 budz\u0105c\u0105 emocje. Chyba ka\u017cdy programista chcia\u0142by, \u017ceby jego programy (przynajmniej niekt\u00f3re) dzia\u0142a\u0142y inteligentnie, czyli tak jak ludzie, tylko szybciej i bardziej bezb\u0142\u0119dnie. Z drugiej strony budzi te\u017c obawy: czy ONE (komputery) b\u0119d\u0105 my\u015ble\u0107 lepiej ni\u017c MY (ludzie)? Czy komputer lepszy od cz\u0142owieka (swego tw\u00f3rcy), b\u0119dzie m\u00f3g\u0142 tworzy\u0107 jeszcze bardziej inteligentne komputery? Niniejszy wyk\u0142ad ma na celu przedstawienie najistotniejszych w\u0105tk\u00f3w sztucznej inteligencji, czyli dziedziny, kt\u00f3ra pr\u00f3buje modelowa\u0107 zachowanie inteligentne i tworzy\u0107 systemy, kt\u00f3re to zachowanie przejawiaj\u0105. Cho\u0107 wyk\u0142ad ma by\u0107 do\u015b\u0107 og\u00f3lny i przegl\u0105dowy, b\u0119dziemy stara\u0107 si\u0119, by student, kt\u00f3ry go uko\u0144czy, nie tylko wiedzia\u0142, jak u\u017cywa\u0107",
+        "Wyk\u0142ady": [
+            [
+                "Pawe\u0142 Rychlikowski",
+                "\u015br 08:00-10:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Jakub Kowalski",
+                "pn 14:00-16:00 (s. 4, 107)"
+            ],
+            [
+                "Jakub Kowalski",
+                "pn 12:00-14:00 (s. 4, 107)"
+            ],
+            [
+                "Pawe\u0142 Rychlikowski",
+                "cz 10:00-12:00 (s. 5, 137)"
+            ],
+            [
+                "Pawe\u0142 Rychlikowski",
+                "\u015br 10:00-12:00 (s. 103, 107)"
+            ],
+            [
+                "Rados\u0142aw Miernik",
+                "wt 18:00-20:00 (s. 5, 108)"
+            ],
+            [
+                "Filip Zag\u00f3rski",
+                "cz 10:00-12:00 (s. 4, 7)"
+            ]
+        ]
+    },
+    {
+        "id": 3298,
+        "name": "Teoretyczne podstawy j\u0119zyk\u00f3w programowania",
+        "courseType": 38,
+        "recommendedForFirstYear": false,
+        "owner": 3,
+        "effects": [],
+        "tags": [
+            6
+        ],
+        "url": "/courses/teoretyczne-podstawy-jezykow-programowania-202223-letni",
+        "description": "Programy i j\u0119zyki programowania (funkcyjne) b\u0119d\u0105 rozpatrywane jako obiekty matematyczne. Nacisk b\u0119dzie po\u0142o\u017cony na zwi\u0105zki programowania z logik\u0105 i dowodami formalnymi (izomorfizm Curry'ego-Howarda). B\u0119d\u0105 omawiane systemy typ\u00f3w, polimorfizm, podtypowanie, teoretyczne podstawy j\u0119zyk\u00f3w obiektowych. Jako \"j\u0119zyk programowania\" b\u0119dzie wykorzystywany przede wszystkim rachunek lambda, ale b\u0119d\u0105 te\u017c przyk\u0142ady w j\u0119zykach Haskell, OCaml, Idris, ... Wcze\u015bniejsza znajomo\u015b\u0107 rachunku lambda ani izomorfizmu Curry'ego-Howarda nie jest wymagana. Nauczanie zdalne W razie konieczno\u015bci mo\u017cliwe jest przej\u015bcie na tryb zdalny. Materia\u0142y do wyk\u0142ad\u00f3w b\u0119d\u0105 umieszczane na SKOSie (jak zawsze), a wyk\u0142ad b\u0119dzie prowadzony on-line z wykorzystaniem wybranej platformy. Zadania na \u0107wiczenia te\u017c b\u0119d\u0105 umieszczane na SKOSie (jak",
+        "Wyk\u0142ady": [
+            [
+                "Zdzis\u0142aw Sp\u0142awski",
+                "cz 10:00-12:00 (s. 140)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Dariusz Biernacki",
+                "wt 14:00-16:00 (s. 141)"
+            ],
+            [
+                "Zdzis\u0142aw Sp\u0142awski",
+                "cz 08:00-10:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3296,
+        "name": "Testowanie gier",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 13,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/testowanie-gier-202223-letni",
+        "description": "Nie naprawimy u\u0142omno\u015bci natury ludzkiej. Programi\u015bci i in\u017cynierowie oprogramowania b\u0119d\u0105 nadal pope\u0142nia\u0107 b\u0142\u0119dy; projektanci gier wprowadz\u0105 exploity, arty\u015bci zapomn\u0105 o wa\u017cnych szczeg\u00f3\u0142ach. To od tester\u00f3w gry zale\u017cy czy wyst\u0105pi\u0105 przerwy w zabawie z niedopracowan\u0105 gr\u0105 i czy gra odniesie komercyjny sukces. Celem przedmiotu Testowanie gier jest pomoc w doskonaleniu umiej\u0119tno\u015bci wystarczaj\u0105co dobrego testowania gier komputerowych.",
+        "Wyk\u0142ady": [
+            [
+                "Leszek Grocholski",
+                "wt 18:00-20:00 (s. 140)"
+            ]
+        ],
+        "\u0106wiczenio-pracownie": [
+            [
+                "Leszek Grocholski",
+                "cz 14:00-16:00 (s. 4, 108)"
+            ],
+            [
+                "Leszek Grocholski",
+                "wt 16:00-18:00 (s. 109, 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3284,
+        "name": "Tutoring",
+        "courseType": 35,
+        "recommendedForFirstYear": true,
+        "owner": 73,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/tutoring-202223-letni",
+        "description": "Celem tutoringu jest czuwanie nad w\u0142a\u015bciw\u0105 organizacj\u0105 pracy przez studenta, \u015bledzenie jego post\u0119p\u00f3w i pomoc w sytuacjach trudnych. Zaj\u0119cia w ramach przedmiotu nie maj\u0105 wyznaczonych cotygodniowych termin\u00f3w, lecz odbywaj\u0105 si\u0119 kilkakrotnie w czasie semestru w terminach wyznaczonych przez prowadz\u0105cych, w ramach spotka\u0144 indywidualnych lub grupowych. Dodatkowo prowadz\u0105cy s\u0105 do dyspozycji student\u00f3w na bie\u017c\u0105co, gdy pojawiaj\u0105 si\u0119 problemy zwi\u0105zane z tokiem studi\u00f3w.",
+        "\u0106wiczenia": [
+            [
+                "Ma\u0142gorzata Biernacka",
+                "wt 14:00-15:00 (s. wirtualna4)"
+            ],
+            [
+                "Jan Otop",
+                "wt 16:00-17:00 (s. wirtualna4)"
+            ],
+            [
+                "Pawe\u0142 Wo\u017any",
+                "\u015br 13:00-14:00 (s. )"
+            ]
+        ]
+    },
+    {
+        "id": 3315,
+        "name": "Tutoring ISIM",
+        "courseType": 35,
+        "recommendedForFirstYear": true,
+        "owner": 70,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/tutoring-isim-202223-letni",
+        "description": "Celem tutoringu jest czuwanie nad w\u0142a\u015bciw\u0105 organizacj\u0105 pracy przez studenta, \u015bledzenie jego post\u0119p\u00f3w i pomoc w sytuacjach trudnych. Zaj\u0119cia w ramach przedmiotu nie maj\u0105 wyznaczonych cotygodniowych termin\u00f3w, lecz odbywaj\u0105 si\u0119 kilkakrotnie w czasie semestru w terminach wyznaczonych przez prowadz\u0105cych, w ramach spotka\u0144 indywidualnych lub grupowych. Dodatkowo prowadz\u0105cy s\u0105 do dyspozycji student\u00f3w na bie\u017c\u0105co, gdy pojawiaj\u0105 si\u0119 problemy zwi\u0105zane z tokiem studi\u00f3w.",
+        "\u0106wiczenia": [
+            [
+                "Krzysztof Lory\u015b",
+                "wt 08:00-09:00 (s. wirtualna4)"
+            ],
+            [
+                "Dariusz Biernacki",
+                "cz 14:00-15:00 (s. wirtualna5)"
+            ]
+        ]
+    },
+    {
+        "id": 3290,
+        "name": "Us\u0142ugi finansowe",
+        "courseType": 42,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [
+            11
+        ],
+        "url": "/courses/usugi-finansowe-202223-letni",
+        "description": "**Przedmiot prowadzony przez dr hab., prof. UWr Edyt\u0119 Rutkowsk\u0105 z Instytutu Nauk Ekonomicznych.** #### Cele przedmiotu 1. Przedstawienie kompleksowej wiedzy o istocie, specyfice i cechach charakterystycznych us\u0142ug finansowych oraz instytucji je \u015bwiadcz\u0105cych (instytucji finansowych). 2. Zapoznanie studenta z zagro\u017ceniami i ryzykiem zwi\u0105zanym z us\u0142ugami finansowymi. 3. Zapoznanie z ca\u0142okszta\u0142tem regulacji prawnych dotycz\u0105cych us\u0142ug finansowych. #### Tre\u015bci programowe Poj\u0119cie i specyfika us\u0142ug finansowych (us\u0142ugi bankowe, kredytowe, p\u0142atnicze, ubezpieczeniowe, inwestycyjne); Klient us\u0142ug finansowych (klient detaliczny, klient profesjonalny, konsument) \u0179r\u00f3d\u0142a zagro\u017ce\u0144 i ryzyka dla klient\u00f3w us\u0142ug finansowych. Regulacja us\u0142ug finansowych w UE. Podmioty \u015bwiadcz\u0105ce legalnie us\u0142ugi finansowe w UE. Zasady podejmowania i prowadzenia",
+        "Wyk\u0142ady": [
+            [
+                "Edyta Rutkowska-Tomaszewska",
+                "wt 12:00-14:00 (s. 119)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Magdalena Paleczna-Sare\u0144cza",
+                "wt 17:00-19:00 (s. 139)"
+            ]
+        ]
+    },
+    {
+        "id": 3352,
+        "name": "Us\u0142ugi finansowe (w)",
+        "courseType": 42,
+        "recommendedForFirstYear": false,
+        "owner": 55,
+        "effects": [],
+        "tags": [
+            11
+        ],
+        "url": "/courses/usugi-finansowe-w-202223-letni",
+        "description": "**Przedmiot prowadzony przez dr hab., prof. UWr Edyt\u0119 Rutkowsk\u0105 z Instytutu Nauk Ekonomicznych.** #### Cele przedmiotu 1. Przedstawienie kompleksowej wiedzy o istocie, specyfice i cechach charakterystycznych us\u0142ug finansowych oraz instytucji je \u015bwiadcz\u0105cych (instytucji finansowych). 2. Zapoznanie studenta z zagro\u017ceniami i ryzykiem zwi\u0105zanym z us\u0142ugami finansowymi. 3. Zapoznanie z ca\u0142okszta\u0142tem regulacji prawnych dotycz\u0105cych us\u0142ug finansowych. #### Tre\u015bci programowe Poj\u0119cie i specyfika us\u0142ug finansowych (us\u0142ugi bankowe, kredytowe, p\u0142atnicze, ubezpieczeniowe, inwestycyjne); Klient us\u0142ug finansowych (klient detaliczny, klient profesjonalny, konsument) \u0179r\u00f3d\u0142a zagro\u017ce\u0144 i ryzyka dla klient\u00f3w us\u0142ug finansowych. Regulacja us\u0142ug finansowych w UE. Podmioty \u015bwiadcz\u0105ce legalnie us\u0142ugi finansowe w UE. Zasady podejmowania i prowadzenia",
+        "Wyk\u0142ady": [
+            [
+                "Nieznany Prowadz\u0105cy",
+                "wt 12:00-14:00 (s. wirtualna1)"
+            ]
+        ]
+    },
+    {
+        "id": 3334,
+        "name": "Warsztaty: Jak za\u0142o\u017cy\u0107 firm\u0119?",
+        "courseType": 35,
+        "recommendedForFirstYear": false,
+        "owner": 36,
+        "effects": [
+            11
+        ],
+        "tags": [],
+        "url": "/courses/warsztaty-jak-zaozyc-firme-202223-letni",
+        "description": "Zaj\u0119cia b\u0119d\u0105 mia\u0142y form\u0119 warsztat\u00f3w. Uczestnicy b\u0119d\u0105 proszeni o opracowanie (w formie kr\u00f3tkiego referatu b\u0119d\u0105cego wprowadzeniem do dyskusji) jednego z temat\u00f3w lub \u201ccase study\u201d i udzia\u0142 w dyskusji. Przewiduj\u0119 udzia\u0142 \u201canio\u0142a biznesu\u201d, za\u0142o\u017cycieli start-up\u00f3w, szef\u00f3w ma\u0142ych firm, os\u00f3b, kt\u00f3rym si\u0119 nie bardzo uda\u0142o (sprzedali start-upy), os\u00f3b, kt\u00f3re rozp\u0119dzi\u0142y kulej\u0105ce ma\u0142e firmy. Tematy do dyskusji: Co oferowa\u0107: tanie us\u0142ugi, unikalne us\u0142ugi czy produkt. Cel strategiczny: sprzeda\u0107 firm\u0119 po zbudowaniu marki, czy budowa\u0107 z my\u015bl\u0105 o trwa\u0142ej niezale\u017cnej firmie. Jaki produkt: istniej\u0105cy niezale\u017cnie, czy po zbudowaniu w\u0142\u0105czony do wi\u0119kszego systemu. Jak znale\u017a\u0107 nisz\u0119? Jak oceni\u0107 wielko\u015b\u0107 rynku? Czy my\u015ble\u0107 o rynku lokalnym",
+        "Seminaria": [
+            [
+                "Leszek Pacholski",
+                "\u015br 16:00-18:00 (s. 140)"
+            ]
+        ]
+    },
+    {
+        "id": 3422,
+        "name": "Wst\u0119p do bezpiecze\u0144stwa komputerowego",
+        "courseType": 5,
+        "recommendedForFirstYear": false,
+        "owner": 605,
+        "effects": [],
+        "tags": [],
+        "url": "/courses/wstep-do-bezpieczenstwa-komputerowego-202223-letni",
+        "description": "Kurs ma za zadanie zaznajomi\u0107 uczestnik\u00f3w z podstawami bezpiecze\u0144stwa komputerowego. # Program zaj\u0119\u0107 - Wprowadzenie (podstawowe poj\u0119cia: zagro\u017cenia, polityki bezpiecze\u0144stwa, mechanizmy bezpiecze\u0144stwa). - Bezpiecze\u0144stwo aplikacji webowych (za [OWASP Top 10](https://owasp.org/Top10/) poruszane zagadnienia obejmuj\u0105 m. in. ataki na: uwierzytelnianie, zarz\u0105dzanie sesj\u0105, autoryzacj\u0119, JWT, REST API, OAuth, SQL). - Ataki niskopoziomowe (m. in. buffer overflows). - Ataki typu side-channel (m. in. timing-attacks, cache attacks, padding-oracle attacks). - Prywatno\u015b\u0107 i anonimowo\u015b\u0107 (differential privacy; losowo\u015b\u0107 a bezpiecze\u0144stwo; fingerprinting; TOR). # Wybrana literatura - M. Sajdak i in., Bezpiecze\u0144stwo aplikacji webowych, 2022 - R. Anderson, Security Engineering: A Guide to Building Dependable Distributed Systems, 2020",
+        "Wyk\u0142ady": [
+            [
+                "Filip Zag\u00f3rski",
+                "cz 14:00-16:00 (s. 25)"
+            ]
+        ],
+        "\u0106wiczenia": [
+            [
+                "Filip Zag\u00f3rski",
+                "wt 08:00-10:00 (s. 5)"
+            ],
+            [
+                "Filip Zag\u00f3rski",
+                "wt 12:00-14:00 (s. 103)"
+            ],
+            [
+                "Filip Zag\u00f3rski",
+                "cz 16:00-18:00 (s. 5)"
+            ]
+        ]
+    }
+]
